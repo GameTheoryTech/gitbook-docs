@@ -15,5 +15,5 @@ Updates will be posted here as the roadmap is updated.  Sprints for the video ga
 * [ ] $300k+ per year: Giveaways, charity donations, etc. to market the protocol, help others, and give back to the community!
 * [ ] $1M (Not per year. Maybe earlier, maybe later? Depends on the protocol and auditing company.): Audit. We can pay without worrying too much about the health of the protocol.&#x20;
 * [ ] $1M per year: It might be time to form a corporation!
-* [ ] $2M per year: We could probably do major donations to charities without harming the protocol!
+* [ ] $2M per year: We could probably do major donations to charities and communities without harming the protocol! Let's do something positive for our communities, crypto and not!
 
