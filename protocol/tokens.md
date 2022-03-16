@@ -4,7 +4,7 @@
 
 Contract: TBD
 
-**GAME** is designed to be used as a medium of exchange inside and outside of the protocol and its products. The built-in stability mechanism in the protocol aims to maintain the peg to 1 **DAI** token in the long run.&#x20;
+**GAME** is designed to be used as a medium of exchange inside and outside of the protocol and its products. The built-in stability mechanism in the protocol aims to maintain the peg to 1 **DAI** token in the long run.
 
 ### **How the Algorithmic Peg works?**
 
@@ -18,7 +18,7 @@ When **GAME** price is above peg, the token supply will have to expand to push i
 
 When the price of GAME continues trading above peg after bond redemption, the contract mints an appropriate amount of new GAME and this will be **distributed** to the **THEORY** stakers.
 
-There is an additional locking mechanism in place. For more information on that, visit the [Locking](locking.md) page.
+There is an additional locking mechanism in place. For more information on that, visit the [Locking](locking-and-fees.md) page.
 
 {% hint style="warning" %}
 Note that GAME **actively pegs via an algorithm**, but that **does not mean** it will be valued at 1 DAI at all times as **it is not collateralized**. **GAME is not to be confused for a crypto or fiat-backed stablecoin.**
@@ -28,7 +28,7 @@ Note that GAME **actively pegs via an algorithm**, but that **does not mean** it
 
 Contract: TBD
 
-The Theory Token (THEORY) is one of the ways to measure the value of the Game Theory and shareholder trust in its ability to consistently maintain GAME close to peg and/or deliver. During epoch expansions the protocol mints GAME and distributes it proportionally to all THEORY holders who have staked their tokens in the [**Theoretics**](theoretics.md). The starting price of THEORY is approximately 71.54 DAI. There is an additional locking mechanism in place. For more information on that, visit the [Locking](locking.md) page.&#x20;
+The Theory Token (THEORY) is one of the ways to measure the value of the Game Theory and shareholder trust in its ability to consistently maintain GAME close to peg and/or deliver. During epoch expansions the protocol mints GAME and distributes it proportionally to all THEORY holders who have staked their tokens in the [**Theoretics**](theoretics.md). The starting price of THEORY is approximately 71.54 DAI. There is an additional locking mechanism in place. For more information on that, visit the [Locking](locking-and-fees.md) page.
 
 All the following values are truncated for simplicity. THEORY has a **maximum total supply of 363,432** tokens distributed as follows:
 
@@ -45,7 +45,7 @@ The team/dev will use the treasury funds in any way that they feel is best for t
 
 Contract: TBD
 
-The main purpose of HODL is to help incentivize fluctuations in the  supply during epoch contraction periods. When the last TWAP (time-weighted average price) of GAME falls below 1 DAI, HODL tokens are issued and can be bought with GAME at the current price. These bonds will be incentivized in various ways, such as staking and special offers. Exchanging GAME for HODL burns GAME tokens, taking them out of circulation (deflation) and helps to get the price back up to peg. These HODL tokens can be redeemed for GAME when the price is above peg in the future, plus a premium based on how high above peg we currently are. This conversely creates inflation and subsequent sell pressure for GAME when it is above peg, helping to push it back toward 1 DAI.
+The main purpose of HODL is to help incentivize fluctuations in the supply during epoch contraction periods. When the last TWAP (time-weighted average price) of GAME falls below 1 DAI, HODL tokens are issued and can be bought with GAME at the current price. These bonds will be incentivized in various ways, such as staking and special offers. Exchanging GAME for HODL burns GAME tokens, taking them out of circulation (deflation) and helps to get the price back up to peg. These HODL tokens can be redeemed for GAME when the price is above peg in the future, plus a premium based on how high above peg we currently are. This conversely creates inflation and subsequent sell pressure for GAME when it is above peg, helping to push it back toward 1 DAI.
 
 {% hint style="info" %}
 Unlike early algorithmic protocols, HODL does not have an expiration date.
