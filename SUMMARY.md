@@ -13,7 +13,7 @@
 * [GAME Distribution](protocol/game-distribution.md)
 * [Bonds (HODL)](protocol/bonds-mechanism.md)
 * [Farms](protocol/farms.md)
-* [Locking](protocol/locking.md)
+* [Locking and Fees](protocol/locking.md)
 * [Roadmap](protocol/roadmap.md)
 * [Other Contract Addresses](protocol/other-contract-addresses.md)
 
