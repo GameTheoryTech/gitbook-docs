@@ -2,20 +2,20 @@
 
 ### What is HODL? What are bonds?
 
-The bonds, named HODL, are unique tokens that can be utilized to help stabilize the GAME price around peg (1 DAI) by reducing the circulating supply of BOMB if the TWAP (time-weighted average price) goes below peg.
+The bonds, named HODL, are unique tokens that can be utilized to help stabilize the GAME price around peg (1 DAI) by reducing the circulating supply of GAME if the TWAP (time-weighted average price) goes below peg.
 
 ### When can I buy HODL/bonds?
 
 HODL can be purchased only during periods of supply contraction and when the TWAP of GAME is below 1.
 
-At the beginning of every new epoch during contraction periods, GAME are issued in the amount of 3% of GAME's circulating supply, with a max debt amount of 35%. This means that if bonds reach 35% of the circulating supply of BOMB, no more bonds will be issued.
+At the beginning of every new epoch during contraction periods, GAME are issued in the amount of 3% of GAME's circulating supply, with a max debt amount of 35%. This means that if bonds reach 35% of the circulating supply of GAME, no more bonds will be issued.
 
 {% hint style="info" %}
 Note that during a zen epoch (when an epoch ends with a TWAP between 1.0 - 1.01), **no HODL will be issued, even though the Theoretics does not print.**
 {% endhint %}
 
 {% hint style="danger" %}
-GAME TWAP (time-weighted average price) is based on the BOMB TWAP from the previous epoch as it ends. In other words, the BOMB TWAP is real-time but the BBOND TWAP is not.
+GAME TWAP (time-weighted average price) is based on the GAME TWAP from the previous epoch as it ends. In other words, the GAME TWAP is real-time but the HODL TWAP is not.
 {% endhint %}
 
 ### Where can I buy HODL/bonds?
@@ -26,7 +26,7 @@ There is a limit of available HODL per epoch during contraction periods (3% of G
 
 ### Why should I buy HODL/bonds?
 
-The first and most important reason to buy BBOND is that they help to maintain the peg, but they are not the only measure in place to keep the protocol on track.
+The first and most important reason to buy HODL is that they help to maintain the peg, but they are not the only measure in place to keep the protocol on track.
 
 HODL don't have an expiration date, so you can view them as an investment in the long-term health of the protocol to be redeemed for a premium at a later date.
 
@@ -52,7 +52,7 @@ So, which one is better?
 
 If I buy GAME at 0.8, and hold it until 1.15 and then sell, I'm getting +$0.35 per GAME.
 
-But, if I buy GAME at 0.8, burn it for BBOND, and redeem it at 1.15, I'm getting 1.105 GAME \* 1.15 (GAME current price) = 1,271 (+$0.47) per GAME redeemed.
+But, if I buy GAME at 0.8, burn it for HODL, and redeem it at 1.15, I'm getting 1.105 GAME \* 1.15 (GAME current price) = 1,271 (+$0.47) per GAME redeemed.
 
 But, what if getting back to peg is taking too long?
 

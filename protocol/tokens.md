@@ -18,7 +18,7 @@ When **GAME** price is above peg, the token supply will have to expand to push i
 
 When the price of GAME continues trading above peg after bond redemption, the contract mints an appropriate amount of new GAME and this will be **distributed** to the **THEORY** stakers.
 
-There is an additional locking mechanism in place. For more information on that, visit the [Locking](bomb-distribution-1.md) page.
+There is an additional locking mechanism in place. For more information on that, visit the [Locking](locking.md) page.
 
 {% hint style="warning" %}
 Note that GAME **actively pegs via an algorithm**, but that **does not mean** it will be valued at 1 DAI at all times as **it is not collateralized**. **GAME is not to be confused for a crypto or fiat-backed stablecoin.**
@@ -28,7 +28,7 @@ Note that GAME **actively pegs via an algorithm**, but that **does not mean** it
 
 Contract: TBD
 
-The Theory Token (THEORY) is one of the ways to measure the value of the Game Theory and shareholder trust in its ability to consistently maintain GAME close to peg and/or deliver. During epoch expansions the protocol mints GAME and distributes it proportionally to all THEORY holders who have staked their tokens in the [**Theoretics**](theoretics.md). The starting price of THEORY is approximately 71.54 DAI. There is an additional locking mechanism in place. For more information on that, visit the [Locking](bomb-distribution-1.md) page.&#x20;
+The Theory Token (THEORY) is one of the ways to measure the value of the Game Theory and shareholder trust in its ability to consistently maintain GAME close to peg and/or deliver. During epoch expansions the protocol mints GAME and distributes it proportionally to all THEORY holders who have staked their tokens in the [**Theoretics**](theoretics.md). The starting price of THEORY is approximately 71.54 DAI. There is an additional locking mechanism in place. For more information on that, visit the [Locking](locking.md) page.&#x20;
 
 All the following values are truncated for simplicity. THEORY has a **maximum total supply of 363,432** tokens distributed as follows:
 

@@ -10,12 +10,12 @@
 
 * [Tokens](protocol/tokens.md)
 * [Theoretics](protocol/theoretics.md)
-* [GAME Distribution](protocol/bomb-distribution.md)
+* [GAME Distribution](protocol/game-distribution.md)
 * [Bonds (HODL)](protocol/bonds-mechanism.md)
 * [Farms](protocol/farms.md)
-* [Locking](protocol/bomb-distribution-1.md)
+* [Locking](protocol/locking.md)
 * [Roadmap](protocol/roadmap.md)
-* [Other Contract Addresses](protocol/other-protocol-contract-addresses.md)
+* [Other Contract Addresses](protocol/other-contract-addresses.md)
 
 ## ⁉ Links
 
