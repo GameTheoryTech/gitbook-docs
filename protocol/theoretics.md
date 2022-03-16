@@ -1,10 +1,6 @@
-# Boardroom
+# Theoretics
 
 ## The Boardroom User Interface
-
-![The Boardroom user interface](<../.gitbook/assets/Screenshot 2022-01-26 193115.png>)
-
-Let's take a look at each element of the Boardroom user interface and what it means.
 
 1. **NEXT EPOCH**\
    The amount of time remaining until the next epoch.
@@ -15,16 +11,16 @@ Let's take a look at each element of the Boardroom user interface and what it me
 4. **APR**\
    The yield for BSHARE stakers in the Boardroom **if the Boardroom was printing every epoch**. This calculation is based on **the last recorded print in the Boardroom**.
 5. **BSHARES STAKED**\
-   ****The total amount of BSHARE currently staked in the Boardroom.
+   \*\*\*\*The total amount of BSHARE currently staked in the Boardroom.
 6. **BOMB Earned**\
-   ****The amount of BOMB you've earned as rewards for staking BSHARE in the Boardroom.
+   \*\*\*\*The amount of BOMB you've earned as rewards for staking BSHARE in the Boardroom.
 7. **BSHARE Staked**\
    The amount of BSHARE you currently have staked in the Boardroom.
 
 ### Boardroom Specifications
 
 * Epoch duration: 6 hours
-* Any interaction with the Boardroom (staking/unstaking BSHARE or withdrawing BOMB rewards) will **lock your staked BSHARE for 6 epochs and BOMB rewards for 3 epochs.**&#x20;
+* Any interaction with the Boardroom (staking/unstaking BSHARE or withdrawing BOMB rewards) will **lock your staked BSHARE for 6 epochs and BOMB rewards for 3 epochs.**
 *   Distribution of BOMB during expansion (Boardoom printing):
 
     **60%** goes to Boardroom BSHARE stakers as rewards\
@@ -81,7 +77,7 @@ Depending on the price of BOMB, the Boardroom print will have to adjust to provi
 
 ### 9. How can I figure out what my future BOMB rewards will be from the Boardroom?
 
-Let's take a look at a simplified example for a _non-debt phase_: say you have 1 BSHARE staked out of 10 total BSHAREs staked in the Boardroom. In this case, you will receive 10% of the total BOMB printed in the Boardroom.&#x20;
+Let's take a look at a simplified example for a _non-debt phase_: say you have 1 BSHARE staked out of 10 total BSHAREs staked in the Boardroom. In this case, you will receive 10% of the total BOMB printed in the Boardroom.
 
 For this example we are assuming that there is a total circulating supply of 10,000 BOMB and the current expansion rate is at 4%, so a total of 400 BOMB will be printed in the Boardroom. Under the protocol's current rules, 60% of those newly printed BOMB will be distributed to BSHARE stakers in the Boardroom. (See the [BOMB Distribution](bomb-distribution.md) page for more details on how BOMB is distributed within the protocol.)\
 \
@@ -94,7 +90,7 @@ Thus, the formula to calculate your rewards is as follows:\
 
 This will vary constantly as the APR in the Boardroom fluctuates, along with other variables such as the price of BOMB.
 
-&#x20;For a quick estimation, however, you can do the following:
+For a quick estimation, however, you can do the following:
 
 1. Take the total APR shown in the Boardroom and divide that by 365 to get the daily APR. (For this example we will say the daily APR is 5%.) 
 2. Multiply that daily APR by the current market price of the total BSHARE you have staked to see what your daily rewards are. (In this example, we have 5 BSHARE, each worth $500, for a total amount staked of $2500. Your daily return in this case would be $2500 \* 0.05, which comes out to $125 per day.)

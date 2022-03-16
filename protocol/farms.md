@@ -1,7 +1,5 @@
 # Farms
 
-![The Bomb Money farms currently available for staking LP tokens to earn BSHARE rewards](../.gitbook/assets/Farms.png)
-
 To incentivize healthy liquidity pools for the Bomb Money protocol tokens, our LP farms have been seeded with BSHARE to be distributed as rewards to LP stakers across a time period of 12 months. The total BSHARE rewards are distributed from each farm as follows:
 
 * BOMB-BTCB LP: 25% of BSHARE rewards

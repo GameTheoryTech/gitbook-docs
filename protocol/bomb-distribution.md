@@ -1,16 +1,17 @@
 ---
-description: How BOMB will be distributed upon supply expansion
+description: How GAME will be distributed upon supply expansion
 ---
 
-# BOMB Distribution
+# GAME Distribution
 
-At the beginning of every epoch, if the time-weighted average price (TWAP) of BOMB is greater than 1.01, new BOMB will be minted in the [Boardroom](boardroom.md).
+At the beginning of every epoch, if the time-weighted average price (TWAP) of GAME is greater than 1.01 (ignored the first week, the bootstrap period), new GAME will be minted in the [Theoretics](theoretics.md).
 
-The amount of new BOMB distributed depends on our position above peg and also the current circulating supply of BOMB.
+The amount of new GAME distributed depends on our position above peg and also the current circulating supply of GAME.  These numbers may be increased during promotional periods!
 
-| Circulating Supply | Max BOMB Minted |
+| Circulating Supply | Max GAME Minted |
 | ------------------ | --------------- |
-| 500k or less       | 4.5% expansion  |
+| Bootstrap          | 5% expansion    |
+| Up to 500k         | 4.5% expansion  |
 | Up to 1M           | 4% expansion    |
 | Up to 1.5M         | 3.5% expansion  |
 | Up to 2M           | 3% expansion    |
@@ -19,7 +20,3 @@ The amount of new BOMB distributed depends on our position above peg and also th
 | Up to 20M          | 1.5% expansion  |
 | Up to 50M          | 1.25% expansion |
 | 50M+               | 1% expansion    |
-
-## BOMB Rewards Distribution Flowchart
-
-![A flowchart of how BOMB rewards are distributed throughout the protocol](<../.gitbook/assets/BOMB Protocol Minting Flow.drawio (2).png>)
