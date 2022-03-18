@@ -30,11 +30,11 @@ Contract: TBD
 
 The Theory Token (THEORY) is one of the ways to measure the value of the Game Theory and shareholder trust in its ability to consistently maintain GAME close to peg and/or deliver. During epoch expansions the protocol mints GAME and distributes it proportionally to all THEORY holders who have staked their tokens in the [**Theoretics**](theoretics.md). The starting price of THEORY is approximately 71.54 DAI. There is an additional locking mechanism in place. For more information on that, visit the [Locking](locking-and-fees.md) page.
 
-All the following values are truncated for simplicity. THEORY has a **maximum total supply of 363,432** tokens distributed as follows:
+All the following values are truncated for simplicity. THEORY has a **maximum total supply of 363,433** tokens distributed as follows:
 
 1. _Treasury/Community Allocation: 28,555_ THEORY vested linearly 12 months. Unlike many tomb forks, this allocation is minted upfront and distributed slowly.
 2. _Team/Dev Allocation: 25,959_ THEORY vested linearly over 12 months. Unlike many tomb forks, this allocation is minted upfront and distributed slowly.
-3. _Rewards: 308,917_ THEORY are allocated for incentivizing liquidity providers in two farming pools for 12 months
+3. _Rewards: 308,918_ THEORY are allocated for incentivizing liquidity providers in two farming pools for 12 months
 4. Initial mint: 1 THEORY minted upon contract creation for the initial pool
 
 {% hint style="success" %}

@@ -19,6 +19,6 @@
 
 ## ⁉ Links
 
-* [Discord](https://discord.com)
-* [Twitter](https://twitter.com)
+* [Discord](https://discord.gg/DVc27ub3D8)
+* [Twitter](https://twitter.com/GameTheoryTech)
 * [GitHub](https://github.com/gametheorytech)
