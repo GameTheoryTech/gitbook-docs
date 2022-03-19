@@ -14,10 +14,6 @@ At the beginning of every new epoch during contraction periods, GAME are issued 
 Note that during a zen epoch (when an epoch ends with a TWAP between 1.0 - 1.01), **no HODL will be issued, even though the Theoretics does not print.**
 {% endhint %}
 
-{% hint style="danger" %}
-GAME TWAP (time-weighted average price) is based on the GAME TWAP from the previous epoch as it ends. In other words, the GAME TWAP is real-time but the HODL TWAP is not.
-{% endhint %}
-
 ### Where can I buy HODL/bonds?
 
 You can buy HODL if any are available through [the bonds page](https://gametheory.tech/bonds). Anyone can buy as many HODL as they want as long as they have enough GAME to pay for them and there is enough HODL supply to do so.
@@ -56,7 +52,7 @@ But, if I buy GAME at 0.8, burn it for HODL, and redeem it at 1.15, I'm getting 
 
 But, what if getting back to peg is taking too long?
 
-We will adjust our use cases to have different behaviors on contraction and expansion periods to benefit HODL holders when needed.  These include staking mechanisms, promotions, and more!
+We will adjust our use cases to have different behaviors on contraction and expansion periods to benefit HODL holders when needed. These include staking mechanisms, promotions, and more!
 
 ### What is the formula to calculate the redemption bonus for HODL?
 
