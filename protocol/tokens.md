@@ -2,7 +2,7 @@
 
 ### GAME - Game Token
 
-Contract: TBD
+Contract: [0x56EbFC2F3873853d799C155AF9bE9Cb8506b7817](https://ftmscan.com/token/0x56EbFC2F3873853d799C155AF9bE9Cb8506b7817)
 
 **GAME** is designed to be used as a medium of exchange inside and outside of the protocol and its products. The built-in stability mechanism in the protocol aims to maintain the peg to 1 **DAI** token in the long run.
 
@@ -26,7 +26,7 @@ Note that GAME **actively pegs via an algorithm**, but that **does not mean** it
 
 ### THEORY - Share Token
 
-Contract: TBD
+Contract: [0x60787C689ddc6edfc84FCC9E7d6BD21990793f06](https://ftmscan.com/token/0x60787C689ddc6edfc84FCC9E7d6BD21990793f06)
 
 The Theory Token (THEORY) is one of the ways to measure the value of the Game Theory and shareholder trust in its ability to consistently maintain GAME close to peg and/or deliver. During epoch expansions the protocol mints GAME and distributes it proportionally to all THEORY holders who have staked their tokens in the [**Theoretics**](theoretics.md). The starting price of THEORY is approximately 71.54 DAI. There is an additional locking mechanism in place. For more information on that, visit the [Locking](locking-and-fees.md) page.
 
@@ -43,7 +43,7 @@ The team/dev will use the treasury funds in any way that they feel is best for t
 
 ### [HODL - Bond Token](bonds-mechanism.md)
 
-Contract: TBD
+Contract: [0xFfF54fcdFc0E4357be9577D8BC2B4579ce9D5C88](https://ftmscan.com/token/0xFfF54fcdFc0E4357be9577D8BC2B4579ce9D5C88)
 
 The main purpose of HODL is to help incentivize fluctuations in the supply during epoch contraction periods. When the last TWAP (time-weighted average price) of GAME falls below 1 DAI, HODL tokens are issued and can be bought with GAME at the current price. These bonds will be incentivized in various ways, such as staking and special offers. Exchanging GAME for HODL burns GAME tokens, taking them out of circulation (deflation) and helps to get the price back up to peg. These HODL tokens can be redeemed for GAME when the price is above peg in the future, plus a premium based on how high above peg we currently are. This conversely creates inflation and subsequent sell pressure for GAME when it is above peg, helping to push it back toward 1 DAI.
 
