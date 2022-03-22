@@ -20,7 +20,7 @@
 
 [0x670433FB874d4B7b94CF1D16E95fa241474E6787](https://ftmscan.com/address/0x670433FB874d4B7b94CF1D16E95fa241474E6787)
 
-### Genesis Pool
+### Genesis Pool (Renounced)
 
 [0x9D5D593Cf8FB6bF3Edb1c1D6dAf37714aF1A0F6C](https://ftmscan.com/address/0x9D5D593Cf8FB6bF3Edb1c1D6dAf37714aF1A0F6C)
 

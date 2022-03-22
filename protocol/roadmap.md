@@ -19,4 +19,5 @@ Updates will be posted here as the roadmap is updated. Sprints for the video gam
 * [ ] $1M (Not per year. Maybe earlier, maybe later? Depends on the protocol and auditing company.): Audit. We can pay without worrying too much about the health of the protocol.
 * [ ] $1M per year: It might be time to form a corporation!
 * [ ] $2M per year: We could probably do major donations to charities and communities without harming the protocol! Let's do something positive for our communities, crypto and not!
+* [ ] $0 per year: Launch Spirits, special NFT partners that help you in the game.
 * [ ] Sprint 1 (Mar 20 - Mar 26): Finish concept art, create project in Unity, and keep the website updated.&#x20;

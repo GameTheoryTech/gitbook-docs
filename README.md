@@ -1,6 +1,6 @@
 # Introduction
 
-Game Theory is an experimental "game" and thought experiment currently in development on the Fantom Opera blockchain. In simple terms, it works like a Tomb/3omb fork mixed with a DeFi Kingdoms fork. Depending on funds raised, it might be used to create a variety of projects, starting with a video game since that is what the dev's background is. THEORY holders will be able to vote on aspects of the game, as well as receive a cut of the revenue (details to be worked out later). GAME might be used as currency within the game(s)/project(s), and the LP providers would earn fees from that (as well as from other promotions).
+Game Theory is an experimental "game" and thought experiment currently in development on the Fantom Opera blockchain. In simple terms, it works like a Tomb/3omb fork mixed with a DeFi Kingdoms fork. It will be used to create a variety of projects, starting with a video game since that is what the dev's background is. The video game will be a 2D RPG with momentum (jumping, grappling hook, boosters) and shooter elements. THEORY holders will be able to vote on aspects of the game, as well as receive a cut of the revenue. GAME will be used as currency within the projects, and the LP providers would earn fees from that (as well as from other promotions).
 
 ## Origins
 
