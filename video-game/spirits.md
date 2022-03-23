@@ -1,5 +1,5 @@
 # Spirits
 
 {% hint style="danger" %}
-This page is under construction.
+Coming soon!
 {% endhint %}

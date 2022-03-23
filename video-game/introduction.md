@@ -1,5 +1,5 @@
 # Introduction
 
 {% hint style="danger" %}
-This page is still under construction.
+Coming soon!
 {% endhint %}
