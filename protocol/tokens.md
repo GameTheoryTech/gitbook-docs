@@ -22,6 +22,12 @@ There is an additional locking mechanism in place. For more information on that,
 
 **$GAME Distribution:**
 
+Every epoch $GAME expansion is distributed as follows:
+
+85% of Epoch expansion goes to $THEORY stakers in theoretics.
+
+15% of Epoch expansion goes to treasury for supporting the protocol
+
 | Circulating Supply | Max $GAME Minted |
 | ------------------ | ---------------- |
 | Bootstrap          | 5% expansion     |
