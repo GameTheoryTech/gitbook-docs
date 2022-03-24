@@ -22,12 +22,12 @@ Another way that investors can acquire an NFT and accelerate their vesting sched
 
 ## NFT Marketplace
 
-The third way an investor can acquire a GT NFT is through the Game Theory NFT marketplace. This will enable investors to buy and sell GT NFTs. When someone buys an NFT from the marketplace they can compound the NFT into their existing NFT to boost its level up to the maximum level for that week. They can also choose the sell the NFT. For someone that has multiple NFTs the one with the highest level will be used for their vesting schedule acceleration. &#x20;
+The third way an investor can acquire a GT NFT is through the Game Theory NFT marketplace. This will enable investors to buy and sell GT NFTs. When someone buys an NFT from the marketplace they can compound the NFT into their existing NFT to boost its level up to the maximum level available for that week. They can also choose the sell the NFT. For someone that has multiple NFTs the one with the highest level will be used for their vesting schedule acceleration. &#x20;
 
-|                  |                  |                     |
-| ---------------- | ---------------- | ------------------- |
-| Week 1: Level 10 | Week 5: Level 50 | Week 9: Level 90    |
-| Week 2: Level 20 | Week 6: Level 60 | Week 10+: Level 100 |
-| Week 3: Level 30 | Week 7: Level 70 |                     |
-| Week 4: Level 40 | Week 8: Level 80 |                     |
+|                   |                    |                    |
+| ----------------- | ------------------ | ------------------ |
+| 15 days: Level 5  | 75 days: Level 25  | 180 days: Level 45 |
+| 30 days: Level 10 | 90 days: Level 30  | 210 days: Level 50 |
+| 45 days: Level 15 | 120 days: Level 35 |                    |
+| 60: Level 20      | 150 days: Level 40 |                    |
 
