@@ -19,6 +19,11 @@
 
 * [Investments](treasury-investments/investments.md)
 
+## 🎮 Video Game
+
+* [Introduction](video-game/introduction.md)
+* [Spirits](video-game/spirits.md)
+
 ## Resources
 
 * [Roadmap](resources/roadmap.md)
@@ -30,8 +35,3 @@
 * [Discord](https://discord.gg/DVc27ub3D8)
 * [Twitter](https://twitter.com/GameTheoryTech)
 * [GitHub](https://github.com/gametheorytech)
-
-## 🎮 Video Game
-
-* [Introduction](video-game/introduction.md)
-* [Spirits](video-game/spirits.md)

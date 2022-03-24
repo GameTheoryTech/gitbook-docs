@@ -6,13 +6,13 @@ description: >-
 
 # NFTs and Marketplace
 
-To incentivize long term holders we have developed the Game Theory NFTs (GT NFT). The level 0 NFT can be minted from the treasury for 100  $DAI. Every 3 days the NFT has been held it levels up. Each level of NFT enables the investor to unlock an extra 1% of their locked $THEORY tokens ahead of the vesting schedule. A level 1 NFT would give you a 1% extra unlock. A level 10 NFT would give you an extra 10% unlock. The NFT greatly increases the benefits of being an early investor in the protocol and being a long term share-holder.
+To incentivize long term holders we have developed the Game Theory NFTs (GT NFT). The level 0 NFT can be minted from the treasury for $100 of $GAME. Every 3 days the NFT has been held it levels up. Each level of NFT enables the investor to unlock an extra 1% of their locked $THEORY tokens ahead of the vesting schedule. A level 1 NFT would give you a 1% extra unlock. A level 10 NFT would give you an extra 10% unlock. The NFT greatly increases the benefits of being an early investor in the protocol and being a long term share-holder.
 
 ## Minting NFTs
 
 |       | Mint Price      | Accepted Payment |
 | ----- | --------------- | ---------------- |
-| 0-10  | $100-$5,100     | DAI              |
+| 0-10  | $100-$5,100     | $GAME            |
 | 11-20 | $5,600-$10,600  |                  |
 | 21-30 | $11,200-$16,200 |                  |
 | 31-40 | $16,700-$21,700 |                  |
