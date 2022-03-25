@@ -2,7 +2,7 @@
 
 Welcome to Game Theory! Game Theory (GT) is the first seigniorage-gamefi protocol. We are combining the mechanics of a seigniorage protocol, a treasury investment system and NFTs to fund the development of a 2D RPG game on the Fantom Opera blockchain.
 
-Inspired by both Tomb Finance, DeFi Kingdoms and a number of other protocols GT looks to innovate in the DeFi and GameFi space and provide a long term sustainable platform for its investors.&#x20;
+Inspired by both Tomb Finance, DeFi Kingdoms, and a number of other protocols, GT looks to innovate in the DeFi and GameFi space and provide a long term sustainable platform for its investors.&#x20;
 
 Our platform token $GAME will be in the in-game currency and LP providers will earn fees from the game and other promotions.&#x20;
 
