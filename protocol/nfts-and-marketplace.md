@@ -12,7 +12,7 @@ To incentivize long term holders we have developed the Game Theory NFTs (GT NFT)
 
 |       | Mint Price      | Accepted Payment |
 | ----- | --------------- | ---------------- |
-| 0-10  | $100-$5,100     | $DAI             |
+| 1-10  | $100-$5,100     | $DAI             |
 | 11-20 | $5,600-$10,600  |                  |
 | 21-30 | $11,200-$16,200 |                  |
 | 31-40 | $16,700-$21,700 |                  |
