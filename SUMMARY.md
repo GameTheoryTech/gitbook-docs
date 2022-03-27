@@ -8,10 +8,12 @@
 
 ## Protocol
 
-* [Tokens](protocol/tokens.md)
+* [$GAME](protocol/usdgame.md)
+* [$THEORY](protocol/usdtheory.md)
+* [HODL (Bond)](protocol/hodl-bond.md)
 * [Farms](protocol/farms.md)
 * [Theoretics](protocol/theoretics.md)
-* [Bonuses, Vesting Schedule and Fees](protocol/locking-and-fees.md)
+* [Bonus Rewards and Fees](protocol/locking-and-fees.md)
 * [NFTs and Marketplace](protocol/nfts-and-marketplace.md)
 * [Bonds (HODL)](protocol/bonds-mechanism.md)
 
@@ -19,10 +21,10 @@
 
 * [Investments](treasury-investments/investments.md)
 
-## 🎮 Video Game
+## 🎮 Brutal Network
 
-* [Introduction](video-game/introduction.md)
-* [Spirits](video-game/spirits.md)
+* [Introduction](brutal-network/introduction.md)
+* [Spirits](brutal-network/spirits.md)
 
 ## Resources
 

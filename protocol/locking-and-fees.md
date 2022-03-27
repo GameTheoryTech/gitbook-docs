@@ -4,41 +4,41 @@ description: >-
   investors and encourages long term holders
 ---
 
-# Bonuses, Vesting Schedule and Fees
+# Bonus Rewards and Fees
 
-Game Theory is tailored towards long term holders who want to be share-holders in our ecosystem and our RPG game. To incentivize that we have a bonus feature for early investors that vests over time. The amount of $THEORY tokens distributed is front loaded so that in the initial weeks of launch a much larger amount of tokens are emitted than in the last weeks. A large amount of these extra tokens are locked and vest over time, encouraging users to stay a part of the protocol long term.
-
-Each staker in the Farm will get their $THEORY rewards. They will get two types of $THEORY tokens when they claim; unlocked and locked tokens. Both will be present in their wallet. The unlocked tokens are theirs to follow whichever strategy makes the most sense for them. The locked tokens will follow a vesting schedule where every week an additional 2% of the tokens unlock. The schedule will go as follows:
+Game Theory is tailored towards long term holders who want to be share-holders in our ecosystem and Brutal Network. To incentivize that we have front loaded the amount of tokens that are distributed each week. That means the emissions will be highest in week one and decrease over time to reward early investors. We also have a long-term bonus for investors who are staking until the launch of Brutal Network with $L-THEORY tokens. These tokens will start vesting one year from the project launch in March 2023. From then $L-THEORY tokens will vest linearly over the next 365 days being fully vested in March 2024. They also can be unlocked through the purchase and holding of an NFT or through completing quests in Brutal Network.&#x20;
 
 ### Bonuses ($THEORY Rewards)
 
-| Week  | Daily Token Emissions | Lock %/Fully Vested | Unlocked Daily Tokens |
-| ----- | --------------------- | ------------------- | --------------------- |
-| 1     | 10378                 | 95%/5%              | 518                   |
-| 2     | 5189                  | 93%/7%              | 363                   |
-| 3     | 3891                  | 91%/9%              | 350                   |
-| 4     | 2594                  | 89%/11%             | 285                   |
-| 5     | 2270                  | 87%/13%             | 295                   |
-| 6     | 1945                  | 85%/15%             | 291                   |
-| 7     | 1621                  | 83%/17%             | 275                   |
-| 8     | 1297                  | 81%/19%             | 246                   |
-| 9     | 1135                  | 79%/21%             | 238                   |
-| 10    | 972                   | 77%/23%             | 223                   |
-| 11    | 810                   | 75%/25%             | 202                   |
-| 12    | 648                   | 73%/27%             | 174                   |
-| 13    | 608                   | 71%/69%             | 176                   |
-| 14    | 567                   | 69%/31%             | 175                   |
-| 15    | 527                   | 67%/33%             | 173                   |
-| 16    | 486                   | 65%/35%             | 170                   |
-| 17    | 445                   | 63%/37%             | 164                   |
-| 18    | 405                   | 61%/39%             | 157                   |
-| 19    | 364                   | 59%/41%             | 149                   |
-| 20-35 | 324                   | 57%/43%-27%/73%     | 139-236               |
-| 36+   | 162                   | 25%/75%-0%/100%     | 121-162               |
+| Week  | Total Daily $THEORY Emissions | $THEORY EMISSIONS | $L-THEORY Emissions |
+| ----- | ----------------------------- | ----------------- | ------------------- |
+| 1     | 10378                         | 518               | 9860                |
+| 2     | 5189                          | 363               | 4826                |
+| 3     | 3891                          | 350               | 3591                |
+| 4     | 2594                          | 285               | 2309                |
+| 5     | 2270                          | 295               | 1975                |
+| 6     | 1945                          | 291               | 1654                |
+| 7     | 1621                          | 275               | 1346                |
+| 8     | 1297                          | 246               | 1051                |
+| 9     | 1135                          | 238               | 897                 |
+| 10    | 972                           | 223               | 749                 |
+| 11    | 810                           | 202               | 608                 |
+| 12    | 648                           | 174               | 474                 |
+| 13    | 608                           | 176               | 432                 |
+| 14    | 567                           | 175               | 392                 |
+| 15    | 527                           | 173               | 354                 |
+| 16    | 486                           | 170               | 316                 |
+| 17    | 445                           | 164               | 281                 |
+| 18    | 405                           | 157               | 248                 |
+| 19    | 364                           | 149               | 215                 |
+| 20-35 | 324                           | 139-236           | 185-88              |
+| 36+   | 162                           | 121-162           | 41-0                |
 
 ### Locks ($GAME Rewards)
 
-$GAMEs emissions in Theoretics have a locking mechanism based on the time weighted price average (TWAP). The locking schedule is linear between the TWAP of 1.01-4.0, meaning the higher the TWAP the higher percentage of each epoch that is unlocked. The same as with $THEORY every week an additional 2% of locked tokens become unlocked.
+There are two different types of $GAME tokens. $GAME and Locked $GAME ($L-GAME). The locking mechanism is based on the time weighted price average (TWAP) of $GAME. The mechanism applies when the TWAP is between $1.01 and $4 and it applies linearly. The locking mechanism only initiates when $GAME rewards are claimed from theoretics. When an investor claims their tokens if the TWAP is $4 or higher there is no lock on any $GAME token. If the TWAP is $1.01 then 95% of the $GAME tokens that were claimed would be locked. If the TWAP was $2 when the tokens were claimed then roughly 50% of the tokens would be locked.&#x20;
+
+$L-GAME tokens unlock over 365 days linearly. So as soon as someone claims when the TWAP is under $4 and they have $L-GAME tokens they would begin to unlock. To turn unlocked $L-GAME tokens into $GAME tokens you click on 'my wallet' and hit the 'unlock' button.&#x20;
 
 | TWAP  | Unlocked Tokens | Locked Tokens |
 | ----- | --------------- | ------------- |
