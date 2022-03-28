@@ -10,13 +10,18 @@ To incentivize long term holders we have developed the Game Theory NFTs (GT NFT)
 
 ## Minting NFTs
 
-|       | Mint Price      | Accepted Payment |
-| ----- | --------------- | ---------------- |
-| 1-10  | $500-$5,000     | $DAI             |
-| 11-20 | $5,500-$10,000  |                  |
-| 21-30 | $10,500-$15,000 |                  |
-| 31-40 | $15,500-$20,000 |                  |
-| 41-50 | $20,500-$25,000 |                  |
+| NFT Prices         | Mint Price          |                      |                     |                      |
+| ------------------ | ------------------- | -------------------- | ------------------- | -------------------- |
+| Level 1-500 DAI    | Level 11-5,500 DAI  | Level 21- 10,500 DAI | Level 31-15,500 DAI | Level 41-20,500 DAI  |
+| Level 2-1,000 DAI  | Level 12-6,000 DAI  | Level 22- 11,000 DAI | Level 32-16,000 DAI | Level 42- 21,000 DAI |
+| Level 3-1,500 DAI  | Level 13-6,500 DAI  | Level 23-11,500 DAI  | Level 33-16,500 DAI | Level 43-21,500 DAI  |
+| Level 4-2,000 DAI  | Level 14-7,000 DAI  | Level 24-12,000 DAI  | Level 34-17,000 DAI | Level 44-22,000 DAI  |
+| Level 5-2,500 DAI  | Level 15-7,500 DAI  | Level 25-12,500 DAI  | Level 35-17,500 DAI | Level 45-22,500 DAI  |
+| Level 6-3,000 DAI  | Level 16-8,000 DAI  | Level 26-13,000 DAI  | Level 36-18,000 DAI | Level 46-23,000 DAI  |
+| Level 7-3,500 DAI  | Level 17-8,500 DAI  | Level 27-13,500 DAI  | Level 37-18,500 DAI | Level 47-23,500 DAI  |
+| Level 8-4,000 DAI  | Level 18-9,000 DAI  | Level 28-14,000 DAI  | Level 38-19,000 DAI | Level 48-24,000 DAI  |
+| Level 9-4,500 DAI  | Level 19-9,500 DAI  | Level 29-14,500 DAI  | Level 39-19,500 DAI | Level 49-24,500 DAI  |
+| Level 10-5,000 DAI | Level 20-10,000 DAI | Level 30-15,000 DAI  | Level 40-20,000     | Level 50-25,000 DAI  |
 
 ## NFT Marketplace
 
