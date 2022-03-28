@@ -10,7 +10,7 @@ To incentivize long term holders we have developed the Game Theory NFTs (GT NFT)
 
 ## Minting NFTs
 
-| NFT Prices         | Mint Price          |                      |                     |                      |
+| NFT Mint Prices    |                     |                      |                     |                      |
 | ------------------ | ------------------- | -------------------- | ------------------- | -------------------- |
 | Level 1-500 DAI    | Level 11-5,500 DAI  | Level 21- 10,500 DAI | Level 31-15,500 DAI | Level 41-20,500 DAI  |
 | Level 2-1,000 DAI  | Level 12-6,000 DAI  | Level 22- 11,000 DAI | Level 32-16,000 DAI | Level 42- 21,000 DAI |

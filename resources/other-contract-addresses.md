@@ -10,7 +10,7 @@ Contract: [0x60787C689ddc6edfc84FCC9E7d6BD21990793f06](https://ftmscan.com/token
 
 ### NFT ($THEORY UNLOCKER)
 
-[https://ftmscan.com/address/0x9d30aa92b2c128850ee0336d5beae3acd3a52c9c](https://ftmscan.com/address/0x9d30aa92b2c128850ee0336d5beae3acd3a52c9c)
+[0x9d30Aa92b2C128850EE0336D5bEAE3AcD3A52c9c](https://ftmscan.com/address/0x9d30aa92b2c128850ee0336d5beae3acd3a52c9c)
 
 ### Genesis Pool (Renounced)
 
