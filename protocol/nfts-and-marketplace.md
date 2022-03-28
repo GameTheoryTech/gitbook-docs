@@ -6,17 +6,17 @@ description: >-
 
 # NFTs and Marketplace
 
-To incentivize long term holders we have developed the Game Theory NFTs (GT NFT). The level 0 NFT can be minted from the treasury for 100 $DAI. Every 3 days the NFT has been held it levels up. Each level the NFT increases it gives the ability to unlock that corresponding percentage of $LTHEORY. So for example if you had 100 $LTHEORY tokens claimed in your wallet and you had a level 50 NFT you could use your NFT on those tokens and unlock 50 of them. The NFT can only be used on those tokens once and no other NFT can interact with those same tokens. This is one of the few ways to turn $LTHEORY tokens into $THEORY and is thus extremely valuable. The NFT greatly increases the benefits of being an early investor in the protocol and being a long term share-holder.
+To incentivize long term holders we have developed the Game Theory NFTs (GT NFT). The level 1 NFT can be minted from the treasury for 500 $DAI. Every 3 days the NFT has been held it levels up. Each level the NFT increases it gives the ability to unlock that corresponding percentage of $LTHEORY. So for example if you had 100 $LTHEORY tokens claimed in your wallet and you had a level 50 NFT you could use your NFT on those tokens and unlock 50 of them. The NFT can only be used on those tokens once and no other NFT can interact with those same tokens. This is one of the few ways to turn $LTHEORY tokens into $THEORY and is thus extremely valuable. The NFT greatly increases the benefits of being an early investor in the protocol and being a long term share-holder.
 
 ## Minting NFTs
 
 |       | Mint Price      | Accepted Payment |
 | ----- | --------------- | ---------------- |
-| 0-10  | $100-$5,100     | $GAME            |
-| 11-20 | $5,600-$10,600  |                  |
-| 21-30 | $11,200-$16,200 |                  |
-| 31-40 | $16,700-$21,700 |                  |
-| 41-50 | $22,200-$27,200 |                  |
+| 1-10  | $500-$5,000     | $DAI             |
+| 11-20 | $5,500-$10,000  |                  |
+| 21-30 | $10,500-$15,000 |                  |
+| 31-40 | $15,500-$20,000 |                  |
+| 41-50 | $20,500-$25,000 |                  |
 
 ## NFT Marketplace
 
