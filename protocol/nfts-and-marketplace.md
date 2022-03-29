@@ -6,7 +6,7 @@ description: >-
 
 # NFTs and Marketplace
 
-To incentivize long term holders we have developed the Game Theory NFTs (GT NFT). The level 1 NFT can be minted from the treasury for 500 $DAI. Every 3 days the NFT has been held it levels up. Each level the NFT increases it gives the ability to unlock that corresponding percentage of $LTHEORY. So for example if you had 100 $LTHEORY tokens claimed in your wallet and you had a level 50 NFT you could use your NFT on those tokens and unlock 50 of them. The NFT can only be used on those tokens once and no other NFT can interact with those same tokens. This is one of the few ways to turn $LTHEORY tokens into $THEORY and is thus extremely valuable. The NFT greatly increases the benefits of being an early investor in the protocol and being a long term share-holder.
+To incentivize long term holders we have developed the Game Theory NFTs (GT NFT). The level 1 NFT can be minted from the treasury for 500 $DAI. Every 3 days the NFT has been held it levels up. Each level the NFT increases it gives the ability to unlock that corresponding percentage of $LTHEORY. So a level 1 NFT can unlock 1% of $LTHEORY. A level 10 NFT can unlock 10% of $LTHEORY and so on. So for example if you had 100 $LTHEORY tokens claimed in your wallet and you had a level 50 NFT you could use your NFT on those tokens and unlock 50 of them. The NFT can only be used on those tokens once and no other NFT can interact with those same tokens. This is one of the few ways to turn $LTHEORY tokens into $THEORY and is thus extremely valuable. The NFT greatly increases the benefits of being an early investor in the protocol and being a long term share-holder.
 
 ## Minting NFTs
 
