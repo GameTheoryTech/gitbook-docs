@@ -10,6 +10,24 @@ To incentivize long term holders we have developed the Game Theory NFTs (GT NFT)
 
 ## Minting NFTs
 
+NFTs come in 4 different level brackets that have corresponding colors. Whatever color the NFT is when it is minted it will stay that color regardless of how many levels it increases by.
+
+Levels 1-19 Bronze
+
+![](https://ipfs.io/ipfs/bafybeieibocsz6brwmsjcxxscqr3msnov4lowbu3zv24aue3hobj4falbm)
+
+Levels 20-39 Silver
+
+![](https://ipfs.io/ipfs/bafkreigeh6uj2ex3chwvqldza6stywmisitgzcue3li3pcka26sqwf5ula)
+
+Levels 40-49 Gold
+
+![](https://ipfs.io/ipfs/bafybeifakd4q47bfvmbggw65rhr7lp2butzcgw6osq7udm36jd6ccrst7a)
+
+Level 50 Platinum
+
+![](https://ipfs.io/ipfs/bafkreibpcnpupii2eyb2bkjwa65yduff47szm2gwhm3bvl2j3flky4rjhy)
+
 | NFT Mint Prices    |                     |                      |                     |                      |
 | ------------------ | ------------------- | -------------------- | ------------------- | -------------------- |
 | Level 1-500 DAI    | Level 11-5,500 DAI  | Level 21- 10,500 DAI | Level 31-15,500 DAI | Level 41-20,500 DAI  |
