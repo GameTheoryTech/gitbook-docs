@@ -28,6 +28,16 @@ Level 50 Platinum
 
 ![](https://ipfs.io/ipfs/bafkreibpcnpupii2eyb2bkjwa65yduff47szm2gwhm3bvl2j3flky4rjhy)
 
+## NFT Generations
+
+There are currently two generations of NFTs. Generation 0 and Generation 1. Generation 0 NFTs have the following supply limits: Bronze 100, Silver 30, Gold 15, Platinum 5. Generation 0 NFTs can only be merged with other Generation 0s. They can be merged an unlimited number of times. Every merger lowers the supply further and makes them more valuable on the NFT marketplace.
+
+Generation 1 NFTs have the following supply limits: Bronze 300, Silver 100, Gold 50, Platinum 10. Generation 1 NFTs can only be merged once. They can only be merged with other generation 1 NFTs.&#x20;
+
+All NFTs entitle shareholders to airdrops from the treasury profits.&#x20;
+
+## NFT Mint Prices
+
 | NFT Mint Prices    |                     |                      |                     |                      |
 | ------------------ | ------------------- | -------------------- | ------------------- | -------------------- |
 | Level 1-500 DAI    | Level 11-5,500 DAI  | Level 21- 10,500 DAI | Level 31-15,500 DAI | Level 41-20,500 DAI  |
