@@ -55,3 +55,8 @@ Contract: [0x60787C689ddc6edfc84FCC9E7d6BD21990793f06](https://ftmscan.com/token
 ### Oracle
 
 [0x9BCcC82c7fCdb24B57B4BE33f33AE82EBcaf464d](https://ftmscan.com/address/0x9BCcC82c7fCdb24B57B4BE33f33AE82EBcaf464d)
+
+### Zapper
+
+[0x2656DaB561f7c4dd0cecb87D94eE2094282B60a9](https://ftmscan.com/address/0x2656DaB561f7c4dd0cecb87D94eE2094282B60a9)
+
