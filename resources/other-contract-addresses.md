@@ -36,11 +36,11 @@ Contract: [0x60787C689ddc6edfc84FCC9E7d6BD21990793f06](https://ftmscan.com/token
 
 [0x29a92c81795D589B32E98Fd119568e738aE5952b](https://ftmscan.com/address/0x29a92c81795D589B32E98Fd119568e738aE5952b)
 
-### Treasury
+### Treasury 1
 
 [0x98F5cdda1489503e755Da30BEc5FCD341C949791](https://ftmscan.com/address/0x98F5cdda1489503e755Da30BEc5FCD341C949791)
 
-### Reserve Treasury
+### Treasury 2
 
 [0x113Ca1D5c26d1a2D5a08fF21B2E7ECD42b7b082B](https://ftmscan.com/address/0x113Ca1D5c26d1a2D5a08fF21B2E7ECD42b7b082B)
 
