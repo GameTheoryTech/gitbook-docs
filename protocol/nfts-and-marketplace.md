@@ -51,10 +51,6 @@ All NFTs entitle shareholders to airdrops from the treasury profits.&#x20;
 | Level 9-4,500 DAI  | Level 19-9,500 DAI  | Level 29-14,500 DAI  | Level 39-19,500 DAI | Level 49-24,500 DAI  |
 | Level 10-5,000 DAI | Level 20-10,000 DAI | Level 30-15,000 DAI  | Level 40-20,000     | Level 50-25,000 DAI  |
 
-## NFT Marketplace
-
-You can also acquire an NFT on the open market through the Game Theory NFT marketplace. This will enable investors to buy and sell GT NFTs using $GAME. Every week there will be a limit to the highest possible level and NFT can have and that will increase over time. When someone buys an NFT from the marketplace they can merge their NFT into an existing NFT to boost its level up to the maximum level available for that week. They can also choose the sell the NFT. For someone that has multiple NFTs if they choose to unlock claimed $LTHEORY tokens in their wallet the NFT with the highest level will be used.
-
 ### Max Level
 
 |                   |                    |                    |
@@ -63,6 +59,10 @@ You can also acquire an NFT on the open market through the Game Theory NFT marke
 | 15 days: Level 10 | 75 days: Level 30  | 135 days: Level 50 |
 | 30 days: Level 15 | 90 days: Level 35  |                    |
 | 45: Level 20      | 105 days: Level 40 |                    |
+
+## NFT Marketplace
+
+You can also acquire an NFT on the open market through the Game Theory NFT marketplace. This will enable investors to buy and sell GT NFTs using $GAME. Every week there will be a limit to the highest possible level and NFT can have and that will increase over time. When someone buys an NFT from the marketplace they can merge their NFT into an existing NFT to boost its level up to the maximum level available for that week. They can also choose the sell the NFT. For someone that has multiple NFTs if they choose to unlock claimed $LTHEORY tokens in their wallet the NFT with the highest level will be used.
 
 ### NFT ($THEORY UNLOCKER)
 
