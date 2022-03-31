@@ -36,7 +36,7 @@ Game Theory is tailored towards long term holders who want to be share-holders i
 
 ### Locks ($GAME Rewards)
 
-There are two different types of $GAME tokens. $GAME and Locked $GAME ($LGAME). The locking mechanism is based on the time weighted price average (TWAP) of $GAME. The mechanism applies when the TWAP is between $1.01 and $4 and it applies linearly. The locking mechanism only initiates when $GAME rewards are claimed from theoretics. When an investor claims their tokens if the TWAP is $4 or higher there is no lock on any $GAME token. If the TWAP is $1.01 then 95% of the $GAME tokens that were claimed would be locked. If the TWAP was $2 when the tokens were claimed then roughly 50% of the tokens would be locked.&#x20;
+There are two different types of $GAME tokens. $GAME and Locked $GAME ($LGAME). The locking mechanism is based on the time weighted price average (TWAP) of $GAME. The mechanism applies when the TWAP is between $1.01 and $4 and it applies linearly. The locking mechanism only initiates when $GAME rewards are claimed from the Theoretics. When an investor claims their tokens if the TWAP is $4 or higher there is no lock on any $GAME token. If the TWAP is $1.01 then 95% of the $GAME tokens that were claimed would be locked. If the TWAP was $2 when the tokens were claimed then roughly 50% of the tokens would be locked.&#x20;
 
 $LGAME tokens unlock over 365 days linearly. So as soon as someone claims when the TWAP is under $4 and they have $LGAME tokens they would begin to unlock. To turn unlocked $LGAME tokens into $GAME tokens you click on 'my wallet' and hit the 'unlock' button.&#x20;
 
