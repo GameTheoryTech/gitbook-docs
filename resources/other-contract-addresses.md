@@ -28,21 +28,21 @@ Contract: [0x60787C689ddc6edfc84FCC9E7d6BD21990793f06](https://ftmscan.com/token
 
 [0x828bccc53695605C12b7Bb85B1b2C3Eb5E4C7Da3](https://ftmscan.com/address/0x828bccc53695605C12b7Bb85B1b2C3Eb5E4C7Da3)
 
-### Community Fund (Temporary EOA)
+### Treasury Wallet 1 (Temporary EOA)
 
 [0x90dED1c9c35f06b7239429939832f7Ab896D0E06](https://ftmscan.com/address/0x90dED1c9c35f06b7239429939832f7Ab896D0E06)
+
+### Treasury Wallet 2 (Temporary EOA)
+
+[0x113Ca1D5c26d1a2D5a08fF21B2E7ECD42b7b082B](https://ftmscan.com/address/0x113Ca1D5c26d1a2D5a08fF21B2E7ECD42b7b082B)
 
 ### Dev Fund (Temporary EOA)
 
 [0x29a92c81795D589B32E98Fd119568e738aE5952b](https://ftmscan.com/address/0x29a92c81795D589B32E98Fd119568e738aE5952b)
 
-### Treasury 1
+### Treasury Contract
 
 [0x98F5cdda1489503e755Da30BEc5FCD341C949791](https://ftmscan.com/address/0x98F5cdda1489503e755Da30BEc5FCD341C949791)
-
-### Treasury 2
-
-[0x113Ca1D5c26d1a2D5a08fF21B2E7ECD42b7b082B](https://ftmscan.com/address/0x113Ca1D5c26d1a2D5a08fF21B2E7ECD42b7b082B)
 
 ### Theoretics
 
