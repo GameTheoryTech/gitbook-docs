@@ -10,12 +10,12 @@
 
 * [$GAME](protocol/usdgame.md)
 * [$THEORY](protocol/usdtheory.md)
-* [HODL (Bond)](protocol/hodl-bond.md)
+* [$HODL](protocol/usdhodl.md)
 * [Farms](protocol/farms.md)
 * [Theoretics](protocol/theoretics.md)
 * [Bonus Rewards and Fees](protocol/locking-and-fees.md)
 * [NFTs and Marketplace](protocol/nfts-and-marketplace.md)
-* [Bonds (HODL)](protocol/bonds-mechanism.md)
+* [More About Bonds](protocol/bonds-mechanism.md)
 
 ## Treasury Investments
 
