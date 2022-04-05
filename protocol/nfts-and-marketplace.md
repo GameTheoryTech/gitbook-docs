@@ -34,8 +34,6 @@ There are currently two generations of NFTs. Generation 0 and Generation 1. Gene
 
 Generation 1 NFTs have the following supply limits: Bronze 300, Silver 100, Gold 50, Platinum 10. Generation 1 NFTs can only be merged once. They can only be merged with other generation 1 NFTs.&#x20;
 
-All NFTs entitle shareholders to airdrops from the treasury profits.&#x20;
-
 ## NFT Mint Prices
 
 | NFT Mint Prices    |                     |                      |                     |                      |
