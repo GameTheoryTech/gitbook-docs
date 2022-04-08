@@ -6,7 +6,7 @@ description: >-
 
 # Bonus Rewards and Fees
 
-Game Theory is tailored towards long term holders who want to be share-holders in our ecosystem and Brutal Network. To incentivize that we have front loaded the amount of tokens that are distributed each week. That means the emissions will be highest in week one and decrease over time to reward early investors. We also have a long-term bonus for investors who are staking until the launch of Brutal Network with $LTHEORY tokens. These tokens will start vesting one year from the project launch in March 2023. From then $LTHEORY tokens will vest linearly over the next 365 days being fully vested in March 2024. They also can be unlocked through the purchase and holding of an NFT or through completing quests in Brutal Network.&#x20;
+Game Theory is tailored towards long term holders who want to be share-holders in our ecosystem. To incentivize that we have front loaded the amount of tokens that are distributed each week. That means the emissions will be highest in week one and decrease over time to reward early investors. We also have a long-term bonus for investors who are staking until the launch of Brutal Network with $LTHEORY tokens. These tokens will start vesting one year from the project launch on March 24th 2023. From then $LTHEORY tokens will vest linearly over the next 365 days being fully vested in March 2024. They also can be unlocked through the purchase and holding of an NFT or through completing quests in Brutal Network.&#x20;
 
 ### Bonuses ($THEORY Rewards)
 

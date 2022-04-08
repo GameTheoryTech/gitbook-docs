@@ -2,21 +2,19 @@
 
 Contract: [0x56EbFC2F3873853d799C155AF9bE9Cb8506b7817](https://ftmscan.com/token/0x56EbFC2F3873853d799C155AF9bE9Cb8506b7817)
 
-**$GAME** is designed to be used as a medium of exchange inside and outside of the protocol and its products. The built-in stability mechanism in the protocol aims to maintain the peg to 1 $DAI token in the long run. By pegging to a stablecoin $GAME will be able to maintain a stable price over the long term which makes $GAME perfect to be used for an in-game currency for Brutal Network and in the wider ecosystem. During epoch expansions the protocol mints $GAME and distributes it proportionally to all $THEORY holders who have staked their tokens in the [**Theoretics**](theoretics.md). $GAME is designed to be used as currency, with $THEORY representing equity in the protocol.
+**$GAME** is designed to be used as a medium of exchange inside and outside of the protocol and its ecosystem. The built-in stability mechanism in the protocol aims to maintain the peg to 1 $DAI token in the long run. By pegging to a stablecoin $GAME will be able to maintain a stable price over the long term which makes $GAME perfect to be used for an in-game currency for Brutal Network and in the wider ecosystem. During epoch expansions the protocol mints $GAME and distributes it proportionally to all $THEORY holders who have staked their tokens in the [**Theoretics**](theoretics.md). $GAME is designed to be used as currency, with $THEORY representing equity in the protocol.
 
 ### **How the Algorithmic Peg works?**
 
 **When $GAME is above peg**
 
-When $GAME price is above peg, the token supply will have to expand to push it back down to Peg and the contract will allow the redemption of the **HODL**.
+When the price of $GAME is above the price of $DAI ($1), the token supply will continue to increase and will be **distributed** to the $THEORY stakers in [Theoretics](theoretics.md).
 
-When the price of $GAME continues trading above peg after bond redemption, the contract mints an appropriate amount of new GAME and this will be **distributed** to the $THEORY stakers.
-
-There is an additional locking mechanism in place. For more information on that, visit the [Locking](locking-and-fees.md) page.
+There is a locking mechanism in place for the distribution of $GAME. For more information on that, visit the [Locking](locking-and-fees.md) page.
 
 **When $GAME is below peg**
 
-When the $GAME time-weighted average price is below the price of $DAI (peg), token holders can purchase **HODL** and $GAME will be **burned** to reduce the circulating supply when users redeem $DAI tokens with a 1:1 ratio.
+When the $GAME time-weighted average price is below the price of $DAI the token supply will stop increasing and being distributed. At this time token holders can purchase [**HODL**](usdhodl.md) **** with their $GAME tokens which will be burned to reduce the supply and help increase the price. When $GAME is above the price of $DAI you can redeem your HODL tokens for $GAME.
 
 **$GAME Distribution:**
 

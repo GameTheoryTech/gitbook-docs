@@ -4,7 +4,7 @@ description: By Gamers, For Gamers
 
 # Investments
 
-Game Theory is in the development phase of building a 2D RPG F2P blockchain game that will revolutionize the space! Developing a game this ambitious will time time and resources and so to support that goal and to bring more value to the community Game Theory will be investing the treasury funds into blockchain gaming.
+Game Theory is in the development phase of building an RPG F2P blockchain game that will revolutionize the space! Developing a game this ambitious will time time and resources and so to support that goal and to bring more value to the community Game Theory will be investing the treasury funds into blockchain gaming.
 
 **Why?**
 

@@ -6,7 +6,7 @@ description: >-
 
 # NFTs and Marketplace
 
-To incentivize long term holders we have developed the Game Theory NFTs (GT NFT). The level 1 NFT can be minted from the treasury for 500 $DAI. Every 3 days the NFT has been held it levels up. Each level the NFT increases it gives the ability to unlock that corresponding percentage of $LTHEORY. So a level 1 NFT can unlock 1% of $LTHEORY. A level 10 NFT can unlock 10% of $LTHEORY and so on. So for example if you had 100 $LTHEORY tokens claimed in your wallet and you had a level 50 NFT you could use your NFT on those tokens and unlock 50 of them. The NFT can only be used on those tokens once and no other NFT can interact with those same tokens. This is one of the few ways to turn $LTHEORY tokens into $THEORY and is thus extremely valuable. The NFT greatly increases the benefits of being an early investor in the protocol and being a long term share-holder.
+To incentivize long term holders we have developed the Game Theory NFTs (GT NFT). The level 1 NFT can be minted from the treasury for 500 $DAI. Every 3 days the NFT has been held it can be levelled up. Each level the NFT increases it gives the ability to unlock that corresponding percentage of $LTHEORY. So a level 1 NFT can unlock 1% of $LTHEORY. A level 10 NFT can unlock 10% of $LTHEORY and so on. So for example if you had 100 $LTHEORY tokens claimed in your wallet and you had a level 20 NFT you could use your NFT on those tokens and unlock 20 of them. The NFT can only be used on those tokens once and no other NFT can interact with those same tokens. This is one of the few ways to turn $LTHEORY tokens into $THEORY and is thus extremely valuable. The NFT will also give premium membership to Brutal Network. Certain levels, quests, events and gear will only be available to NFT holders. The NFTs have a limited supply and thus over time as demand increases they will get more valuable.
 
 ## Minting NFTs
 
@@ -32,7 +32,7 @@ Level 50 Platinum
 
 There are currently two generations of NFTs. Generation 0 and Generation 1. Generation 0 NFTs have the following supply limits: Bronze 100, Silver 30, Gold 15, Platinum 5. Generation 0 NFTs can only be merged with other Generation 0s. They can be merged an unlimited number of times. Every merger lowers the supply further and makes them more valuable on the NFT marketplace.
 
-Generation 1 NFTs have the following supply limits: Bronze 300, Silver 100, Gold 50, Platinum 10. Generation 1 NFTs can only be merged once. They can only be merged with other generation 1 NFTs.&#x20;
+Generation 1 NFTs have the following supply limits: Bronze 300, Silver 100, Gold 50, Platinum 10. Generation 1 NFTs can only be merged once. They can only be merged with other generation 1 NFTs. To level up an NFT there is a fee in $GAME.
 
 ## NFT Mint Prices
 
@@ -57,6 +57,14 @@ Generation 1 NFTs have the following supply limits: Bronze 300, Silver 100, Gold
 | 15 days: Level 10 | 75 days: Level 30  | 135 days: Level 50 |
 | 30 days: Level 15 | 90 days: Level 35  |                    |
 | 45: Level 20      | 105 days: Level 40 |                    |
+
+|                  |                    |                    |                    |
+| ---------------- | ------------------ | ------------------ | ------------------ |
+| Level 1: 1 $GAME | Level 6: 11 $GAME  | Level 11: 21 $GAME | Level 16: 36 $GAME |
+| Level 2: 2 $GAME | Level 7: 12 $GAME  | Level 12: 22 $GAME | Level 12: 37 $GAME |
+| Level 3: 3 $GAME | Level 8: 13 $GAME  | Level 13: 23 $GAME | Level 13: 38 $GAME |
+| Level 4: 4 $GAME | Level 9: 14 $GAME  | Level 14: 24 $GAME | Level 14: 39 $GAME |
+| Level 5: 5 $GAME | Level 10: 15 $GAME | Level 15: 25 $GAME | Level 15: 40 $GAME |
 
 ## NFT Marketplace
 
