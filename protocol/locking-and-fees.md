@@ -8,6 +8,8 @@ description: >-
 
 Game Theory is tailored towards long term holders who want to be share-holders in our ecosystem. To incentivize that we have front loaded the amount of tokens that are distributed each week. That means the emissions will be highest in week one and decrease over time to reward early investors. We also have a long-term bonus for investors who are staking until the launch of Brutal Network with $LTHEORY tokens. These tokens will start vesting one year from the project launch on March 24th 2023. From then $LTHEORY tokens will vest linearly over the next 365 days being fully vested in March 2024. They also can be unlocked through the purchase and holding of an NFT or through completing quests in Brutal Network.&#x20;
 
+Every week the ratio of $THEORY to LTHEORY emissions change by 2%. Week one 95% of emissions were LTHEORY and 5% were $THEORY. Week two 93% were LTHEORY and 7% were $THEORY. Week three 91% LTHEORY and 9% $THEORY. This will continue each week until the end of the year when 0% of rewards are LTHEORY and 100% are $THEORY.
+
 ### Bonuses ($THEORY Rewards)
 
 | Week  | Total Daily $THEORY Emissions | $THEORY EMISSIONS | $LTHEORY Emissions |
