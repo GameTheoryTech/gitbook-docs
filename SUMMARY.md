@@ -31,6 +31,7 @@
 * [Roadmap](resources/roadmap.md)
 * [FAQs](resources/faqs.md)
 * [Contract Addresses](resources/other-contract-addresses.md)
+* [Team Wallets](resources/team-wallets.md)
 
 ## Links
 
