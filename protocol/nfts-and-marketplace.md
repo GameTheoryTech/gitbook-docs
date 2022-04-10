@@ -58,13 +58,13 @@ Generation 1 NFTs have the following supply limits: Bronze 300, Silver 100, Gold
 | 30 days: Level 15 | 90 days: Level 35  |                    |
 | 45: Level 20      | 105 days: Level 40 |                    |
 
-|                  |                    |                    |                    |
-| ---------------- | ------------------ | ------------------ | ------------------ |
-| Level 1: 1 $GAME | Level 6: 11 $GAME  | Level 11: 21 $GAME | Level 16: 36 $GAME |
-| Level 2: 2 $GAME | Level 7: 12 $GAME  | Level 12: 22 $GAME | Level 12: 37 $GAME |
-| Level 3: 3 $GAME | Level 8: 13 $GAME  | Level 13: 23 $GAME | Level 13: 38 $GAME |
-| Level 4: 4 $GAME | Level 9: 14 $GAME  | Level 14: 24 $GAME | Level 14: 39 $GAME |
-| Level 5: 5 $GAME | Level 10: 15 $GAME | Level 15: 25 $GAME | Level 15: 40 $GAME |
+|                   |                    |                    |                    |
+| ----------------- | ------------------ | ------------------ | ------------------ |
+| Level 1: 6 $GAME  | Level 6: 16 $GAME  | Level 11: 31 $GAME | Level 16: 56 $GAME |
+| Level 2: 7 $GAME  | Level 7: 17 $GAME  | Level 12: 32 $GAME | Level 12: 57 $GAME |
+| Level 3: 8 $GAME  | Level 8: 18 $GAME  | Level 13: 33 $GAME | Level 13: 58 $GAME |
+| Level 4: 9 $GAME  | Level 9: 19 $GAME  | Level 14: 34 $GAME | Level 14: 59 $GAME |
+| Level 5: 10 $GAME | Level 10: 20 $GAME | Level 15: 35 $GAME | Level 15: 60 $GAME |
 
 ## NFT Marketplace
 
