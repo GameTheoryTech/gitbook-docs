@@ -4,4 +4,4 @@ description: Roadmap outlining the future for Game Theory, as well as monetary g
 
 # Roadmap
 
-![](<../.gitbook/assets/Business Roadmap - Swimlane\_ By Quarter.png>)
+![](<../.gitbook/assets/2022-04-16 (2).png>)
