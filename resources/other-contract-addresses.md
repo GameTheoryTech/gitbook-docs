@@ -8,6 +8,10 @@
 
 [0x60787C689ddc6edfc84FCC9E7d6BD21990793f06](https://ftmscan.com/token/0x60787C689ddc6edfc84FCC9E7d6BD21990793f06)
 
+### $MASTER - Governance Token
+
+[0xfDCACa44e1248aac450b657249E509738a789d8e](https://ftmscan.com/token/0xfDCACa44e1248aac450b657249E509738a789d8e)
+
 ### $HODL - Bond Token
 
 [0xFfF54fcdFc0E4357be9577D8BC2B4579ce9D5C88](https://ftmscan.com/token/0xFfF54fcdFc0E4357be9577D8BC2B4579ce9D5C88)

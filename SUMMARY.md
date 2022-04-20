@@ -10,6 +10,7 @@
 
 * [$GAME](protocol/usdgame.md)
 * [$THEORY](protocol/usdtheory.md)
+* [$MASTER](protocol/usdmaster.md)
 * [$HODL](protocol/usdhodl.md)
 * [Farms](protocol/farms.md)
 * [Theoretics](protocol/theoretics.md)
