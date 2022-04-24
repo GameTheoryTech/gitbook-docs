@@ -21,7 +21,7 @@
 
 * Epoch duration: 6 hours
 * Any interaction with the Theoretics (staking/unstaking $THEORY or withdrawing $GAME rewards) will **lock your staked $THEORY for 6 epochs and $GAME rewards for 3 epochs at max.** This will commence when the % of locked $THEORY being distributed in the farms is 83%. actual.
-* Epoch Expansion: The current expansion cap is based on the currently circulating $GAME supply (see [GAME Distribution](broken-reference) for details). If there are bonds to be redeemed, 65% of minted GAME goes to the treasury until its sufficiently stocked to satisfy future bond redemption.
+* Epoch Expansion: The current expansion cap is based on the currently circulating $GAME supply (see [GAME Distribution](usdgame.md) for details). If there are bonds to be redeemed, 65% of minted GAME goes to the treasury until its sufficiently stocked to satisfy future bond redemption.
 
 {% hint style="info" %}
 Note that the Theoretics **does not** print any rewards for $THEORY stakers when the Theoretics TWAP < 1.01, except during the bootstrap phase.
