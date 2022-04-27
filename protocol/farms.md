@@ -2,8 +2,8 @@
 
 To incentivize healthy liquidity pools for the Game Theory protocol tokens, our LP farms have been seeded with $THEORY to be distributed as rewards to LP stakers across a time period of 12 months. The total $THEORY rewards are distributed from each farm as follows:
 
-* $GAME-$DAI LP: 60% of the $THEORY rewards
-* $THEORY-$DAI LP: 40% of the $THEORY rewards
+* $GAME-$DAI LP: 75% of the $THEORY rewards
+* $THEORY-$DAI LP: 25% of the $THEORY rewards
 
 ### **1. What will happen when the circulating supply equals the total supply? Will reward emissions stop?**
 
