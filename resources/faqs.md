@@ -30,7 +30,7 @@ Once enough GAME is sufficiently stocked in the treasury to satisfy the redempti
 
 The debt phase will last as long as is necessary to adequately pay back outstanding HODL debt. Please keep in mind that the DAO will also need to collect a little extra, as there needs to be a cushion to cover the bonus premiums when people redeem HODL over peg.\
 \
-There's no exact poker way of calculating how many epochs it will take, since the protocol doesn't know exactly when people will redeem their HODL. The debt phase cannot end until the treasury has enough GAME to cover the redemption of all outstanding HODL tokens plus a premium.
+There's no exact way of calculating how many epochs it will take, since the protocol doesn't know exactly when people will redeem their HODL. The debt phase cannot end until the treasury has enough GAME to cover the redemption of all outstanding HODL tokens plus a premium.
 
 ### 7. At the end of the epoch, the Theoretics did not print GAME, but then no HODL(s) were issued either. Why?
 
