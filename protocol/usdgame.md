@@ -20,9 +20,9 @@ When the $GAME time-weighted average price is below the price of $DAI the token 
 
 Every epoch $GAME expansion is distributed as follows:
 
-85% of Epoch expansion goes to $THEORY stakers in theoretics.
+60% of Epoch expansion goes to $THEORY stakers in theoretics.
 
-15% of Epoch expansion goes to treasury for supporting the protocol
+40% of Epoch expansion goes to treasury for supporting the protocol
 
 | Circulating Supply | Max $GAME Minted |
 | ------------------ | ---------------- |
