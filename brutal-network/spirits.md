@@ -1,10 +1,4 @@
----
-description: https://gametheory.tech/#/altergene
----
-
 # Altergene
-
-
 
 ![](../.gitbook/assets/2022-05-03.png)
 
@@ -17,3 +11,5 @@ Blue = Quick Mode grants super speed! This ability can be a blessing and a curse
 Green = Greed Mode grants double the points! Use this to gain an edge over your competitors. Works super well with all the other powerups!&#x20;
 
 Transparent = Ghost Mode grants invulnerability, allowing you to pass through the monster people chasing you!
+
+[https://gametheory.tech/#/altergene](https://gametheory.tech/#/altergene)

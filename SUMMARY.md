@@ -24,8 +24,8 @@
 
 ## 🎮 GAMES
 
-* [Altergene](games/altergene.md)
-* [Brutal Network](games/brutal-network.md)
+* [Altergene](brutal-network/spirits.md)
+* [Brutal Network](brutal-network/introduction.md)
 
 ## Resources
 

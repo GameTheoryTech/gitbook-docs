@@ -1,4 +1,4 @@
-# Introduction
+# Brutal Network
 
 Brutal Network is a Futuristic Online Shooter mixed with a 2D role player game. Combat will involve momentum-based maneuvers, such as boosters and grappling hooks. Player v Enemy is the focus. There will also be a player v player storyline. The main player v enemy gameplay is hoard-based gameplay and rouge-like dungeons.
 
