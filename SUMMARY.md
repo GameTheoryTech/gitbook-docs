@@ -22,10 +22,10 @@
 
 * [Investments](treasury-investments/investments.md)
 
-## 🎮 Brutal Network
+## 🎮 GAMES
 
-* [Introduction](brutal-network/introduction.md)
-* [Spirits](brutal-network/spirits.md)
+* [Altergene](games/altergene.md)
+* [Brutal Network](games/brutal-network.md)
 
 ## Resources
 
