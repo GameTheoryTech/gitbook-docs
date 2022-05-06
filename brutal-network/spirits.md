@@ -2,9 +2,9 @@
 
 ![](../.gitbook/assets/2022-05-03.png)
 
-Altergene is our maze-chase arcade game! Inspired by the original pacman game our main character, Luna, has the ability to randomly alter her genes using alchemy for offense, defense, speed, or bonuses! This grants her a powerup when grabbing big coins. Each powerup lasts for about 6 seconds.&#x20;
+Altergene is our maze-chase arcade game! Inspired by the original Pacman game, our main character, Luna, has the ability to randomly alter her genes using alchemy for offense, defense, speed, or bonuses! This grants her a powerup when grabbing big coins. Each powerup lasts for about 6 seconds.&#x20;
 
-Red = Power Mode grants the ability to attack any target that is free from the prison. Can only be used once one each enemy!&#x20;
+Red = Power Mode grants the ability to attack any target that is free from the prison. Can only be used once on each enemy!&#x20;
 
 Blue = Quick Mode grants super speed! This ability can be a blessing and a curse, allowing you to slip by an enemy, or run right into them!&#x20;
 
