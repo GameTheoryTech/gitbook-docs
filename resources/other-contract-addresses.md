@@ -18,7 +18,7 @@
 
 ### NFT Gen 0 ($THEORY UNLOCKER)
 
-[0x9d30Aa92b2C128850EE0336D5bEAE3AcD3A52c9c](https://ftmscan.com/address/0x9d30aa92b2c128850ee0336d5beae3acd3a52c9c)
+[0x9d30Aa92b2C128850EE0336D5bEAE3AcD3A52c9c](https://ftmscan.com/token/0x9d30aa92b2c128850ee0336d5beae3acd3a52c9c)
 
 ### NFT Gen 1 ($THEORY UNLOCKER)
 
