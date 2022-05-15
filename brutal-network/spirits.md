@@ -18,6 +18,27 @@ A/Left/Joystick Left/D-Pad Left: Move Left\
 S/Down/Joystick Down/D-Pad Down: Move Down\
 D/Right/Joystick Right/D-Pad Right: Move Right
 
+All of our blockchain games have a play-to-earn element to them. Altergene has the following challenges and prizes:
+
+
+
+**Prizes**
+
+Seasonal:
+
+* High Score: 500 GAME
+* Highest Level Score: 250 GAME
+* Most Enemies Defeated: 300 GAME
+* Highest Level Reached: 250 GAME
+* Most Powerups Collected: 250 GAME
+* Top Spender: 30% back, 50% back if holding an NFT\
+
+
+Daily:
+
+* Random User: 50 GAME
+* Most Enemies Defeated: 50 GAME
+
 
 
 [https://gametheory.tech/#/altergene](https://gametheory.tech/#/altergene)
