@@ -2,6 +2,10 @@
 
 Contract: [0x83641AA58E362A4554e10AD1D120Bf410e15Ca90](https://ftmscan.com/token/0x83641AA58E362A4554e10AD1D120Bf410e15Ca90)
 
+Mint $MASTER: [https://gametheory.tech/#/dungeon](https://gametheory.tech/#/dungeon)
+
+
+
 **$MASTER** is the governance token of the Game Theory ecosystem. Owning $MASTER is the most profitable way to participate in Game Theory over the long term.&#x20;
 
 
