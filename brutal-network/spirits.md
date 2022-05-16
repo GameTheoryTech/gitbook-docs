@@ -1,6 +1,6 @@
 # Altergene
 
-![](../.gitbook/assets/2022-05-03.png)
+![](../.gitbook/assets/2022-05-15.png)
 
 Altergene is our maze-chase arcade game! Pick up coins and avoid the enemies chasing you. Inspired by the original Pacman game, our main character, Luna, has the ability to randomly alter her genes using alchemy for offense, defense, speed, or bonuses! This grants her a powerup when grabbing big coins. Each powerup lasts for about 6 seconds.
 

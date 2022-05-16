@@ -18,14 +18,14 @@
 * [NFTs and Marketplace](protocol/nfts-and-marketplace.md)
 * [More About Bonds](protocol/bonds-mechanism.md)
 
-## Treasury Investments
-
-* [Investments](treasury-investments/investments.md)
-
 ## 🎮 GAMES
 
 * [Altergene](brutal-network/spirits.md)
 * [Brutal Network](brutal-network/introduction.md)
+
+## Treasury Investments
+
+* [Investments](treasury-investments/investments.md)
 
 ## Resources
 
