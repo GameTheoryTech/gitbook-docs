@@ -39,6 +39,6 @@ Daily:
 * Random User: 50 GAME
 * Most Enemies Defeated: 50 GAME
 
-
+The daily rewards reset each day at 12PM UTC
 
 [https://gametheory.tech/#/altergene](https://gametheory.tech/#/altergene)
