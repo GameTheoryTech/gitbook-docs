@@ -1,14 +1,18 @@
 # Introduction
 
-Welcome to Game Theory! Game Theory (GT) is the first seigniorage-gamefi protocol. We are combining the mechanics of a seigniorage protocol, a treasury investment system and NFTs to fund the development of our RPG online shooter **Brutal Network** on the Fantom Opera blockchain.
+Welcome to Game Theory! Game Theory is building an ecosystem of blockchain games powered by our token $GAME. Our goal is to merge cryptocurrency and gaming together to leverage the unique benefits that each provide for the benefit of each other.&#x20;
 
-Inspired by both Tomb Finance, DeFi Kingdoms, and a number of other protocols, GT looks to innovate in the DeFi and GameFi space and provide a long term sustainable platform for its investors.&#x20;
+Founded by our AAA Game Developer 0xSweetie, Game Theory is developing a string of fun and innovative blockchain games that combine free-to-play mechanisms with play-to-earn elements to give people fun, engaging, and exciting games, along with the opportunity to generate income!
 
-Our platform token $GAME will be in the in-game currency and LP providers will earn fees from the game and other promotions.&#x20;
+Our first game is Altergene, which is a maze-chase game inspired by classic arcade games. Play as our hero Luna, as you try and avoid the enemies while collecting as many coins as possible to get the highest score! You can collect power ups that provide different abilities to help you defeat the enemies and collect more points. The levels get progressively harder and more you play to keep you on your toes!
 
-Our governance token $THEORY are shares that reflect the value of the protocol. Owning $THEORY gives investors a share of the treasury profits and value created by Brutal Network.
+The second game in the ecosystem is No Animals Harmed, which is our mobile-friendly projectile game. Attack the enemies and bosses with your projectile animals to progress through each level while collecting points and experience. Upgrade your character avatar as you accumulate points to give your animals a permanent boost. Move through the map to become the ultimate champion!
 
-Our founder and head developer is a former AAA programmer with extensive experience that wanted to bring something new and innovative to the gaming space and saw GT as the perfect vehicle to achieve that. The goal of the protocol is to bootstrap the liquidity and fundraise for the development and deployment of a next generation RPG game, all the while creating an ecosystem to grow long-term with the Fantom blockchain.
+Our third game will be an expansive turn-based role playing game called Celestial. Celestial is a tactical RPG where will be able to play as your character and move your way through the world battling enemies and monsters along your journey to become the worlds greatest hero! Play in the world with friends and have the opportunity to earn as your character grows stronger and you complete more quests!
+
+All of our games will be powered by our token $GAME which is the center of our ecosystem. Along with our games we have a decentralized exchange, yield farming, auto-compounding vaults, NFTs, an NFT marketplace and a lottery!
+
+Our goal is to become the premier blockchain gaming ecosystem in all of decentralized finance. We are excited to have you along with us on this journey!
 
 ##
 

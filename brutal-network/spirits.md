@@ -1,8 +1,12 @@
+---
+description: https://gametheory.tech/#/altergene
+---
+
 # Altergene
 
 ![](../.gitbook/assets/2022-05-15.png)
 
-Altergene is our maze-chase arcade game! Pick up coins and avoid the enemies chasing you. Inspired by the original Pacman game, our main character, Luna, has the ability to randomly alter her genes using alchemy for offense, defense, speed, or bonuses! This grants her a powerup when grabbing big coins. Each powerup lasts for about 6 seconds.
+Altergene is our maze-chase arcade game! Pick up coins and avoid the enemies chasing you trying to get the highest score possible. Inspired by the original Pacman game, our main character, Luna, has the ability to randomly alter her genes using alchemy for offense, defense, speed, or bonuses! This grants her a powerup when grabbing big coins. Each powerup lasts for about 6 seconds.
 
 Red = Power Mode grants the ability to attack any target that is free from the prison. Can only be used once on each enemy!&#x20;
 
@@ -18,13 +22,9 @@ A/Left/Joystick Left/D-Pad Left: Move Left\
 S/Down/Joystick Down/D-Pad Down: Move Down\
 D/Right/Joystick Right/D-Pad Right: Move Right
 
-All of our blockchain games have a play-to-earn element to them. Altergene has the following challenges and prizes:
+All of our blockchain games have a play-to-earn element to them. Altergene has the following challenges and prizes
 
-
-
-**Prizes**
-
-Seasonal:
+**Seasonal**:
 
 * High Score: 500 GAME
 * Highest Level Score: 250 GAME
@@ -34,7 +34,7 @@ Seasonal:
 * Top Spender: 30% back, 50% back if holding an NFT\
 
 
-Daily:
+**Daily**:
 
 * Random User: 50 GAME
 * Most Enemies Defeated: 50 GAME

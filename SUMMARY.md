@@ -9,19 +9,17 @@
 ## Protocol
 
 * [$GAME](protocol/usdgame.md)
-* [$THEORY](protocol/usdtheory.md)
 * [$MASTER](protocol/usdmaster.md)
-* [$HODL](protocol/usdhodl.md)
 * [Farms](protocol/farms.md)
-* [Theoretics](protocol/theoretics.md)
-* [Bonus Rewards and Fees](protocol/locking-and-fees.md)
+* [Decentralized Exchange](protocol/decentralized-exchange/README.md)
+  * [Liquidity Pools](protocol/decentralized-exchange/liquidity-pools.md)
 * [NFTs and Marketplace](protocol/nfts-and-marketplace.md)
-* [More About Bonds](protocol/bonds-mechanism.md)
 
 ## 🎮 GAMES
 
 * [Altergene](brutal-network/spirits.md)
-* [Brutal Network](brutal-network/introduction.md)
+* [No Animals Harmed](games/no-animals-harmed.md)
+* [Celestial](games/celestial.md)
 
 ## Treasury Investments
 
