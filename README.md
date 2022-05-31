@@ -8,7 +8,7 @@ Our first game is Altergene, which is a maze-chase game inspired by classic arca
 
 The second game in the ecosystem is No Animals Harmed, which is our mobile-friendly projectile game. Attack the enemies and bosses with your projectile animals to progress through each level while collecting points and experience. Upgrade your character avatar as you accumulate points to give your animals a permanent boost. Move through the map to become the ultimate champion!
 
-Our third game will be an expansive turn-based role playing game called Celestial. Celestial is a tactical RPG where will be able to play as your character and move your way through the world battling enemies and monsters along your journey to become the worlds greatest hero! Play in the world with friends and have the opportunity to earn as your character grows stronger and you complete more quests!
+Our third game will be an expansive turn-based role playing game called Celestial. Celestial is a tactical RPG where you will be able to play as your character and move your way through the world battling enemies and monsters along your journey to become the worlds greatest hero! Play in the world with friends and have the opportunity to earn as your character grows stronger and you complete more quests!
 
 All of our games will be powered by our token $GAME which is the center of our ecosystem. Along with our games we have a decentralized exchange, yield farming, auto-compounding vaults, NFTs, an NFT marketplace and a lottery!
 

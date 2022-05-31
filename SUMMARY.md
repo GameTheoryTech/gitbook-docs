@@ -18,7 +18,7 @@
 ## 🎮 GAMES
 
 * [Altergene](brutal-network/spirits.md)
-* [No Animals Harmed](games/no-animals-harmed.md)
+* [No Animals Harmed](brutal-network/introduction.md)
 * [Celestial](games/celestial.md)
 
 ## Treasury Investments

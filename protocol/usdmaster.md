@@ -16,9 +16,9 @@ Mint $MASTER: [https://gametheory.tech/#/dungeon](https://gametheory.tech/#/dung
 
 \-The ability to vote in snapshot governance proposals
 
-\-The ability to claim rewards&#x20;
+\-The ability to claim rewards from the revenue sharing
 
-\-First priority for events and rewards in our games
+\-First priority for events and airdrops of in-game items/currency&#x20;
 
 
 
