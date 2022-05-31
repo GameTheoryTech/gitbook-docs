@@ -38,7 +38,5 @@ After the lockup period $MASTER can be redeemed for $GAME-$USDC.
 
 When redeeming $MASTER you would receive the amount of $GAME-$USDC initially deposited plus all of the fees accumulated during the lockup period.
 
-Claiming rewards resets the $MASTER lockup period for another 30 days.
-
-
+After the lockup period has finished if you claim rewards without without withdrawing your $MASTER tokens the lockup period resets for another 30 days.&#x20;
 
