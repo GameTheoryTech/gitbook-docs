@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to Game Theory! Game Theory is building an ecosystem of blockchain games powered by our token $GAME. Our goal is to merge cryptocurrency and gaming together to leverage the unique benefits that each provide for the benefit of each other.&#x20;
+Welcome to Game Theory! Game Theory is building an ecosystem of blockchain games powered by our token $GAME. Our goal is to use the innovation of cryptocurrency to support building truly engaging and innovative games that provide an incredible experience to our users, as well as an opportunity to earn money.&#x20;
 
 Founded by our AAA Game Developer 0xSweetie, Game Theory is developing a string of fun and innovative blockchain games that combine free-to-play mechanisms with play-to-earn elements to give people fun, engaging, and exciting games, along with the opportunity to generate income!
 
