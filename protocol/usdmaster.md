@@ -6,7 +6,7 @@ Mint $MASTER: [https://gametheory.tech/#/dungeon](https://gametheory.tech/#/dung
 
 
 
-**$MASTER** is the governance token of the Game Theory ecosystem. Owning $MASTER is the most profitable way to participate in Game Theory over the long term. The price of $MASTER will always be higher than the price of $GAME due to revenue sharing.
+**$MASTER** is the governance token of the Game Theory ecosystem. Owning $MASTER is the most profitable way to participate in Game Theory over the long term as $MASTER holders are distributed a share of the protocols revenues.&#x20;
 
 
 
