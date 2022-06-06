@@ -6,7 +6,7 @@ As you move your way through the levels you are able to accumulate currency that
 
 NAH is a procedurally generated game meaning every game run will be different from the last one, but the levels will always get more difficult as they are completed. When you complete a level, you will see your progress on the map and you will have the opportunity to go to the in-game store and purchase items or make character upgrades permanent.&#x20;
 
-There are three types of currency: silver, gold and platinum. Silver can only be earned through game play and can only be used inside the game. Gold can only be minted with $GAME and can only be used inside the game to purchase certain premium items. Platinum can be converted into $GAME and used outside the game. &#x20;
+There are two types of currency: silver and gold. Silver can only be earned through game play and can only be used inside the game. Gold can only be minted with $GAME and can only be used inside the game to purchase certain premium items.&#x20;
 
 When you die on a run you have the option to pay a certain amount of silver or gold to continue playing. You also get the option to use silver or gold to make your skill point earned permanent or you will lose those points forever!&#x20;
 
