@@ -16,6 +16,8 @@ Mint $MASTER: [https://gametheory.tech/#/dungeon](https://gametheory.tech/#/dung
 
 \-The ability to vote in snapshot governance proposals
 
+\-The ability to claim rewards from the farm
+
 \-The ability to claim rewards from the revenue sharing
 
 \-First priority for events and airdrops of in-game items/currency&#x20;
@@ -36,7 +38,7 @@ The lockup period for $MASTER is between 30 days and 4 years.
 
 After the lockup period $MASTER can be redeemed for $GAME-$USDC.
 
-When redeeming $MASTER you would receive the amount of $GAME-$USDC initially deposited plus all of the fees accumulated during the lockup period.
+When redeeming $MASTER you would receive the amount of $GAME-$USDC initially deposited plus any pending farm rewards and fee rewards.
 
-After the lockup period has finished if you claim rewards without without withdrawing your $MASTER tokens the lockup period resets for another 30 days.&#x20;
+After the lockup period has finished if you claim rewards without withdrawing your $MASTER tokens the lockup period resets for another 30 days.&#x20;
 
