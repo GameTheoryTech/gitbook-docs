@@ -2,11 +2,11 @@
 
 * [Game Theory Home](https://gametheory.tech)
 
-## Game Theory
+## 💡 Game Theory
 
 * [Introduction](README.md)
 
-## Protocol
+## 💻 Protocol
 
 * [$GAME](protocol/usdgame.md)
 * [$MASTER](protocol/usdmaster.md)
@@ -21,13 +21,13 @@
 * [No Animals Harmed](brutal-network/introduction.md)
 * [Celestial RPG](games/celestial.md)
 
-## Resources
+## 📚 Resources
 
 * [Roadmap](resources/roadmap.md)
 * [Contract Addresses](resources/other-contract-addresses.md)
-* [Contract Security](resources/contract-security.md)
+* [Contract Security](resources/contract-ownership.md)
 
-## Links
+## 🔗 Links
 
 * [Discord](https://discord.gg/DVc27ub3D8)
 * [Twitter](https://twitter.com/GameTheoryTech)
