@@ -1,4 +1,4 @@
-# Celestial
+# Celestial RPG
 
 Celestial is a tactical role playing game in which players follow the story of the protagonist. The game features two modes of play: battles and the world map. Battles take place on three-dimensional, isometric fields. Characters move on a battlefield composed of square tiles; movement and action ranges are determined by the character's statistics. The battlefield also factors in elements such as terrain and weather to determine strategic advantages and disadvantages during clashes
 

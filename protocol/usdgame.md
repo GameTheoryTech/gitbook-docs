@@ -14,13 +14,13 @@ Liquidity providers are incentivized to stake their liquidity pool tokens in our
 
 $GAME also has a sales tax that is based on the size of the sale relative to the size of the liquidity pool in order to protect our long-term investors, increase treasury value, and incentivize buyers when we are under our desired health factor. The health factor also increases on buys and decreases on sales.
 
-$GAME tokens can be bought from the Game Theory decentralized exchange with $USDC
+$GAME tokens can be bought from Celestial Exchange with $USDC
 
 ### TOKEN DISTRIBUTION (1 YEAR)
 
 Total Supply: 2,100,000
 
-Migrated Tokens: 616,000
+Migrated Tokens from V1: 616,000
 
 Farm Rewards: 616,000
 
@@ -30,7 +30,7 @@ Team: 410,000
 
 ### SALES TAX
 
-Unless otherwise stated, the sales tax is further split up as follows: 80% Treasury, 10% Holders (1/7 $GAME, 2/7 $GAME-USDC, 4/7 $MASTER), 10% Team
+Unless otherwise stated, the sales tax is further split up as follows: 80% Treasury, 10% Holders (1/7 $GAME Holders, 2/7 $GAME-USDC LP Holders, 4/7 $MASTER Holders), 10% Team
 
 \>= 0% of Liquidity Sold vs Bought: 10%
 

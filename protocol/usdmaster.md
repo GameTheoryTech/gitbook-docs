@@ -1,12 +1,12 @@
 # $MASTER
 
-Contract:&#x20;
+Contract: [0x93F71fcc39B278D4B5c0dB1Cab844b4d36e4575B](https://snowtrace.io/address/0x93f71fcc39b278d4b5c0db1cab844b4d36e4575b)
 
-Mint $MASTER: [https://gametheory.tech/#/dungeon](https://gametheory.tech/#/dungeon)
+Mint $MASTER: [https://gametheory.tech/#/farms](https://gametheory.tech/#/farms)
 
 
 
-**$MASTER** is the governance token of the Game Theory ecosystem. Owning $MASTER is the most profitable way to participate in Game Theory over the long term as $MASTER holders are distributed a share of the protocols revenues.&#x20;
+**$MASTER** is the governance token of the Game Theory ecosystem. Owning $MASTER is the most profitable way to participate in Game Theory over the long term as $MASTER holders are distributed a share of the protocols revenue.&#x20;
 
 
 
@@ -26,7 +26,7 @@ Mint $MASTER: [https://gametheory.tech/#/dungeon](https://gametheory.tech/#/dung
 
 **How to obtain $MASTER:**
 
-Go into the Dungeon and you exchange $GAME-$USDC liquidity pool tokens for $MASTER tokens.
+Go into the farm and you exchange $GAME-$USDC liquidity pool tokens for $MASTER tokens.
 
 The amount of $MASTER tokens you receive is based on the price of $GAME-$USDC relative to the price of $MASTER at the time.
 

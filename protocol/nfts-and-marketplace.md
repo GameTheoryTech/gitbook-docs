@@ -6,15 +6,11 @@ description: >-
 
 # NFTs and Marketplace
 
-The Game Theory ecosystem has utility NFTs that provide value to both the investing and gaming sides of the protocol.
+The Game Theory ecosystem has utility NFTs (non-fungible tokens) that provide value to both the investing and gaming sides of the protocol.
 
-There are currently two generation of NFTs:
 
-Gen 0
 
-Gen 1
-
-Both generation of NFTs provide the following benefits:
+The VIP pass provides the following:
 
 \-Boosts to rewards from the liquidity pool farms
 
@@ -32,4 +28,4 @@ NFTs can be bought and sold on the NFT marketplace using $GAME tokens.&#x20;
 
 
 
-Contract: [https://ftmscan.com/address/0x9d30aa92b2c128850ee0336d5beae3acd3a52c9c](https://ftmscan.com/address/0x9d30aa92b2c128850ee0336d5beae3acd3a52c9c)
+Contract: [0x77396e5a5b5d27dd4F22C8AdEcfa951e494f35aA](https://snowtrace.io/address/0x77396e5a5b5d27dd4f22c8adecfa951e494f35aa)

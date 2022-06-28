@@ -11,27 +11,21 @@
 * [$GAME](protocol/usdgame.md)
 * [$MASTER](protocol/usdmaster.md)
 * [Farms](protocol/farms.md)
-* [Celestial Exchange](protocol/celestial-exchange/README.md)
-  * [Liquidity Pools](protocol/celestial-exchange/liquidity-pools.md)
+* [Celestial Exchange](protocol/decentralized-exchange/README.md)
+  * [Liquidity Pools](protocol/decentralized-exchange/liquidity-pools.md)
 * [NFTs and Marketplace](protocol/nfts-and-marketplace.md)
 
 ## 🎮 GAMES
 
 * [Altergene](brutal-network/spirits.md)
 * [No Animals Harmed](brutal-network/introduction.md)
-* [Celestial RPG](games/celestial-rpg.md)
-
-## Treasury Investments
-
-* [Investments](treasury-investments/investments.md)
+* [Celestial RPG](games/celestial.md)
 
 ## Resources
 
 * [Roadmap](resources/roadmap.md)
-* [FAQs](resources/faqs.md)
 * [Contract Addresses](resources/other-contract-addresses.md)
-* [Contract Ownership](resources/contract-ownership.md)
-* [Team Wallets](resources/team-wallets.md)
+* [Contract Security](resources/contract-security.md)
 
 ## Links
 

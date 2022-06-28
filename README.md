@@ -10,7 +10,7 @@ The second game in the ecosystem is No Animals Harmed, which is our mobile-frien
 
 Our third game will be an expansive turn-based role playing game called Celestial. Celestial is a tactical RPG where you will be able to play as your character and move your way through the world battling enemies and monsters along your journey to become the worlds greatest hero! Play in the world with friends and have the opportunity to earn as your character grows stronger and you complete more quests!
 
-All of our games will be powered by our token $GAME which is the center of our ecosystem. Along with our games we have a decentralized exchange, yield farming, auto-compounding vaults, NFTs, an NFT marketplace and a lottery!
+All of our games will be powered by our token $GAME which is the center of our ecosystem. Along with our games we have a decentralized exchange, yield farming, NFTs, an NFT marketplace and a lottery!
 
 Our goal is to become the premier blockchain gaming ecosystem in all of decentralized finance. We are excited to have you along with us on this journey!
 

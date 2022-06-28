@@ -4,4 +4,4 @@ description: Roadmap outlining the future for Game Theory, as well as monetary g
 
 # Roadmap
 
-![](../.gitbook/assets/Roadmap.png)
+![](<../.gitbook/assets/Roadmap NEW.png>)
