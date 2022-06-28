@@ -1,3 +1,7 @@
+---
+description: (WIP, please wait while we update this page to the Avalanche contracts)
+---
+
 # Contract Addresses
 
 ### $GAME - Platform Token

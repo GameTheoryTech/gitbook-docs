@@ -30,6 +30,7 @@
 * [Roadmap](resources/roadmap.md)
 * [FAQs](resources/faqs.md)
 * [Contract Addresses](resources/other-contract-addresses.md)
+* [Contract Ownership](resources/contract-ownership.md)
 * [Team Wallets](resources/team-wallets.md)
 
 ## Links
