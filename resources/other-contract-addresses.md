@@ -30,7 +30,7 @@
 
 ### BUYBACK
 
-[0x997510276220dc46561c0D6a5eE0319CF736e6d1](https://snowtrace.io/address/0x997510276220dc46561c0d6a5ee0319cf736e6d1)
+[0x4FD50c5E915CDE74F5286afEA510e6bB8029435c](https://snowtrace.io/address/0x4fd50c5e915cde74f5286afea510e6bb8029435c)
 
 ### ORACLE
 
