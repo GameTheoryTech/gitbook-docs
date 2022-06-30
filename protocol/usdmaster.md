@@ -32,6 +32,8 @@ The amount of $MASTER tokens you receive is based on the price of $GAME-$USDC re
 
 The lockup period for $MASTER is between 30 days and 4 years.
 
+If you add to your $MASTER deposit you can only add more for the same amount of lockup time as your existing deposit or for more time.
+
 
 
 **Redeeming $MASTER for $GAME-$USDC:**
