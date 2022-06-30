@@ -12,7 +12,7 @@ The Game Theory ecosystem has utility NFTs (non-fungible tokens) that provide va
 
 The VIP pass provides the following:
 
-\-Boosts to rewards from the liquidity pool farms
+\-Boosts to rewards from the liquidity pool farms (VIP1 provides a 2% boost, VIP2 a 1% boost)
 
 \-Early access to testing and sneak peeks of games
 
