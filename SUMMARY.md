@@ -10,6 +10,7 @@
 
 * [$GAME](protocol/usdgame.md)
 * [$MASTER](protocol/usdmaster.md)
+* [THEORY Credits](protocol/theory-credits.md)
 * [Farms](protocol/farms.md)
 * [Celestial Exchange](protocol/decentralized-exchange/README.md)
   * [Liquidity Pools](protocol/decentralized-exchange/liquidity-pools.md)
