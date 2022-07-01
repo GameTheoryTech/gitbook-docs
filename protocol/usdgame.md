@@ -12,7 +12,7 @@ $GAME has one initial liquidity pool: $GAME-$USDC
 
 Liquidity providers are incentivized to stake their liquidity pool tokens in our farms to earn rewards in $GAME tokens.
 
-$GAME also has a sales tax that is based on the size of the sale relative to the size of the liquidity pool in order to protect our long-term investors, increase treasury value, and incentivize buyers when we are under our desired health factor. The health factor also increases on buys and decreases on sales.
+$GAME also has a sales tax that is based on the size of the sale relative to the size of the liquidity pool in order to protect our long-term investors, increase treasury value, and incentivize buyers when we are under our desired health factor. The health factor also increases on buys (and over 30 days) and decreases on sales.
 
 $GAME tokens can be bought from Celestial Exchange with $USDC
 
