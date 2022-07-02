@@ -6,7 +6,9 @@ Celestial Exchange is sole location where investors can buy and sell $GAME token
 
 Celestial Exchange uses an Automated Market Maker (AMM), sometimes referred to as a Constant Function Market Maker, in place of an order book.
 
-At a very high level, an AMM replaces the buy and sell orders in an order book market with a liquidity pool of two assets, both valued relative to each other. As one asset is traded for the other, the relative prices of the two assets shift, and a new market rate for both is determined. In this dynamic, a buyer or seller trades directly with the pool, rather than with specific orders left by other parties.&#x20;
+At a very high level, an AMM replaces the buy and sell orders in an order book market with a liquidity pool of two assets, both valued relative to each other. As one asset is traded for the other, the relative prices of the two assets shift, and a new market rate for both is determined. In this dynamic, a buyer or seller trades directly with the pool, rather than with specific orders left by other parties.
+
+Celestial Exchange officially launched 06/28/2022 on Avalanche
 
 ## **FARMS**
 
