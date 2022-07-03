@@ -20,6 +20,14 @@ The VIP pass provides the following:
 
 
 
+**Emissions Boost**
+
+Holding the VIP pass gives a boost to rewards from staking LP tokens in the farm
+
+Example: Let's say your emissions earned per day is 100 Game tokens. If you Boost using an Gen 0 (2% boost) then your daily emissions will be 100 \* 1.02 = 102 Game tokens.
+
+
+
 ![](https://ipfs.io/ipfs/bafybeieibocsz6brwmsjcxxscqr3msnov4lowbu3zv24aue3hobj4falbm)
 
 ## NFT Marketplace
