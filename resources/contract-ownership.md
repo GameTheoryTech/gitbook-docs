@@ -1,6 +1,6 @@
 # Contract Security
 
-(The timelock will be switched on after we make sure everything is working properly after launch. Ownership will be completely renounced on most smart contracts once we see that it can run on its own and the final version is released.)
+(The timelock has been switched on after we made sure everything is working properly after launch. Ownership will be completely renounced on most smart contracts once we see that it can run on its own and the final version is released.)
 
 The ownership of the smart contracts are as follows:\
 
