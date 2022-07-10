@@ -38,7 +38,7 @@
 
 ### ALTERGENE CLIENT
 
-[0xfccFA7C523A91d3E6E72E0Fa68Df01E4aE1e6173](https://snowtrace.io/address/0xfccfa7c523a91d3e6e72e0fa68df01e4ae1e6173)
+[0x9483cD90f8961864d58AAdeb505FEFd965529bc2](https://snowtrace.io/address/0x9483cd90f8961864d58aadeb505fefd965529bc2)
 
 
 
