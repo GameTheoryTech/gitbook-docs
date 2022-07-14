@@ -22,7 +22,7 @@ A/Left/Joystick Left/D-Pad Left: Move Left\
 S/Down/Joystick Down/D-Pad Down: Move Down\
 D/Right/Joystick Right/D-Pad Right: Move Right
 
-All of our blockchain games have a play-to-earn element to them. Altergene has the following challenges and prizes
+All of our blockchain games have a play-to-earn element to them. Altergene has the following challenges and prizes:
 
 **Seasonal**:
 
